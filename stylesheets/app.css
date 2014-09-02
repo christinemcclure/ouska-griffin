@@ -9927,3 +9927,7 @@ th.hide-for-touch {
     display: table-cell !important;
   }
 }
+/* line 44, ../scss/app.scss */
+h1, h2, h3, h4, h5, h6, .top-bar-section ul li > a {
+  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
+}
