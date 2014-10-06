@@ -1,18 +1,6 @@
-<!doctype html>
-<html class="no-js" lang="en" id="ouskagriffinpodiatrist.com">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Christine McClure, www.christinemcclure.com">  
-    <meta name="keywords" content="podiatrist, podiatry, chicago, melrose park, illinois">
-    <title>Dr. Florence Ouska-Griffin</title>
-    <link rel="icon" href="favicon.png">    
-    <link rel="shortcut icon" href="favicon.ico">
-    <meta name="description" content="Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College. She has offices in Chicago and Melrose Park, IL.">
-    <link rel="stylesheet" href="stylesheets/app.css" />
-    <script src="bower_components/modernizr/modernizr.js"></script>
-  </head>
-  <body>
+<?php include($_SERVER['DOCUMENT_ROOT']."/includes/header.html"); ?>
+  
+<body>
 <div class="row">
   <div class="large-12 columns">
     <nav class="top-bar" data-topbar="" role="navigation" data-options="is_hover: false">
