@@ -8,6 +8,7 @@
     <!-- Title Area -->
     <li class="name">
       <h1><a href="#">Dr. Florence Ouska-Griffin, Podiatrist</a></h1>
+      <p>Chicago, Melrose Park</p>
     </li>
     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
