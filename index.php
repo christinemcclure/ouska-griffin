@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/includes/header.html"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT']."/includes/html-head.html"); ?>
   
 <body>
 
