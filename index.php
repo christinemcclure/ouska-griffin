@@ -43,7 +43,7 @@
  
 <div class="row">
 <div class="large-12 columns">
-<img src="http://placehold.it/1000x400&text=[img]">
+<img src="images/home-walking.jpg">
 <hr>
 </div>
 </div>
