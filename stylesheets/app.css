@@ -9953,3 +9953,13 @@ p.header a {
 .top-bar {
   height: 70px;
 }
+
+/* general */
+@media only screen and (min-width: 64.063em) {
+  /* line 67, ../scss/app.scss */
+  img.inline-wrap {
+    display: inline-block !important;
+    float: left;
+    margin-right: 20px;
+  }
+}

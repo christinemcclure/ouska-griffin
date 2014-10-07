@@ -61,3 +61,12 @@ p.header a{
 .top-bar {
     height:70px;
 }
+
+/* general */
+@media only screen and (min-width: 64.063em){
+    img.inline-wrap{
+        display: inline-block !important;
+        float:left;
+        margin-right:20px;
+    }
+}
