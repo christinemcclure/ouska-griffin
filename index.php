@@ -22,8 +22,16 @@
 <li class="has-dropdown">
                 <a>Menu</a>
                 <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">Back</a></h5></li>
-                  <li class=""><a href="#">Home</a></li>
-                  <li class=""><a href="#">Walking for fun and fitness</a></li>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Locations and Contact</a></li>
+                  <li><a href="#">Walking for fun and fitness</a></li>
+                  <li><a href="#">Custom Orthotics</a></li>
+                  <li><a href="#">Injuries</a></li>
+                  <li><a href="#">Infections, Athlete's Foot, and Warts</a></li>
+                  <li><a href="#">Ingrown Toenails</a></li>
+                  <li><a href="#">Diabetic Foot Care</a></li>
+                  <li><a href="#">Senior-Focused Care</a></li>
+                  <li><a href="#">New Patient Information</a></li>
                 </ul>
               </li>
     </ul>
