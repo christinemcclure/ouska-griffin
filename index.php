@@ -20,7 +20,7 @@
     <!-- Right Nav Section -->
     <ul class="right">
 <li class="has-dropdown">
-                <a href="http://www.zurb.com/expo/community">Menu</a>
+                <a>Menu</a>
                 <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">Back</a></h5></li>
                   <li class=""><a href="#">Home</a></li>
                   <li class=""><a href="#">Walking for fun and fitness</a></li>
