@@ -9928,6 +9928,28 @@ th.hide-for-touch {
   }
 }
 /* line 44, ../scss/app.scss */
-h1, h2, h3, h4, h5, h6, .top-bar-section ul li > a {
+h1, h2, h3, h4, h5, h6 {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* header */
+/* line 50, ../scss/app.scss */
+.top-bar .name h1 a {
+  margin: 10px 0 0 0;
+  line-height: 24px;
+}
+
+/* line 54, ../scss/app.scss */
+p.header a {
+  padding: 0 0 0 15px;
+}
+
+/* line 57, ../scss/app.scss */
+.top-bar-section ul li > a, p.header a {
+  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* line 61, ../scss/app.scss */
+.top-bar {
+  height: 70px;
 }

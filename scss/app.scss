@@ -41,7 +41,23 @@
 $header-font: "oswald", "Helvetica", Helvetica, Arial, sans-serif !default;
 
 
-h1, h2, h3, h4, h5, h6, .top-bar-section ul li > a{
+h1, h2, h3, h4, h5, h6 {
   font-family: $header-font;
 }
 
+/* header */
+
+.top-bar .name h1 a {
+  margin:10px 0 0 0;  
+  line-height: 24px;
+}
+p.header a{
+  padding: 0 0 0 15px;
+}
+.top-bar-section ul li > a, p.header a {
+  font-family: $header-font;    
+}
+
+.top-bar {
+    height:70px;
+}
