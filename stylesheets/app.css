@@ -9962,9 +9962,19 @@ p.header a {
   height: 70px;
 }
 
+/* line 80, ../scss/app.scss */
+.top-bar-section li:not(.has-form) a:not(.button) {
+  line-height: 70px;
+}
+
+/* line 84, ../scss/app.scss */
+.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+  line-height: 45px;
+}
+
 /* general */
 @media only screen and (min-width: 64.063em) {
-  /* line 82, ../scss/app.scss */
+  /* line 91, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
