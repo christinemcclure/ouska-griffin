@@ -9954,27 +9954,26 @@ p.header a {
 
 /* line 72, ../scss/app.scss */
 .top-bar-section ul li > a, p.header a {
+  color: #fcf5ed;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* line 76, ../scss/app.scss */
-.top-bar {
+/* line 77, ../scss/app.scss */
+.top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
+  background: #185459;
   height: 70px;
-}
-
-/* line 80, ../scss/app.scss */
-.top-bar-section li:not(.has-form) a:not(.button) {
   line-height: 70px;
+  border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 84, ../scss/app.scss */
+/* line 85, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
 }
 
 /* general */
 @media only screen and (min-width: 64.063em) {
-  /* line 91, ../scss/app.scss */
+  /* line 92, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;

@@ -70,16 +70,17 @@ p.header a{
   padding: 0 0 0 15px;
 }
 .top-bar-section ul li > a, p.header a {
+  color: $cream;
   font-family: $header-font;    
 }
 // stretch header to fit second line
-.top-bar {
+.top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
+    background: $teal;
     height:70px;
+    line-height: 70px;
+    border-bottom: 8px solid $ltTeal;
 }
-//menu section should hover at 70px
-.top-bar-section li:not(.has-form) a:not(.button){
-  line-height: 70px;
-}
+
 // move interior menu back to original line height
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height:45px;
