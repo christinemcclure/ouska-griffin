@@ -1,0 +1,120 @@
+<html>
+	<head>
+		<title>
+			Dr. Florence Ouska-Griffin
+		</title>
+	</head>
+	<body bgcolor = "#FFFFFF">
+		<div align = "center" />
+			<table width = "1000" cellspacing = "0" cellpadding = "0" height="104"  valign="top">
+				<tr>
+					<td>
+						<table cellspacing = "0" cellpadding = "0">
+							<tr>
+								<td><a href="default.html"><img border ="0" src ="images\header_MainHeader.png" /></a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr valign = "top">
+					<td>
+						<table width = "1000" cellspacing = "0" cellpadding = "0" valign = "top">
+							<tr valign ="top">
+								<td>
+									<table cellpadding = "0" cellspacing="0" valign = "top">
+										<tr height="55" width="213">
+											<td><a href ="pages\walkingforfitness.html"> <img border ="0" src = "images\button_walkingforfitness_2.png" /></a></td>
+										</tr>
+										<tr height="55" width="213">
+											<td><a href ="pages\orthotics.html"> <img border ="0" src = "images\button_orthotics_2.png" /></a></td>
+										</tr>
+										<tr height="55" width="213">
+											<td><a href ="pages\surgery.html"> <img border ="0" src = "images\button_surgery_2.png" /></a></td>
+										</tr>
+										<tr height="55" width="213">
+											<td><a href="pages\diabetic.html"><img border = "0" src = "images\button_diabeticfoot_2.png" /></a></td>
+										</tr>
+										<tr height="55"width="213">
+											<td><a href ="pages\injuries.html"> <img border ="0" src = "images\button_injuries_2.png" /></a></td>
+										</tr>
+										<tr height="55" width="213">
+											<td><a href ="pages\newpatientinfo.html"> <img border ="0"  src = "images\button_newpatient_2.png" /></a></td>
+										</tr>
+										<tr height="250" >
+											<td background = "images\side_ColumnBackground.png"> </td>
+										</tr>
+										<tr height = "175">
+											<td background = "images\side_ColumnBackground_filler.png"> &nbsp; </td>
+										</tr>
+									</table>
+								</td>
+								<td>
+									<table width = "759" height ="525" cellspacing = "7" bgcolor ="#FFFFFF">
+										<tr>
+											<td colspan = "2" align = "center" valign="center" height = "55"><font size = "6" face="century gothic">Where Will Your Feet Take You Today?</font></td>
+										</tr>
+										<tr>
+											<td valign="top" width="192" height="190" >
+												<img src = "images\mainPage_drphoto.png"/>
+											</td>
+											<td valign = "top"  align = "left">
+												<img src = "images\welcome.png"/> to our practice and thank you for visiting our web site.
+												We have been providing comprehensive foot and ankle medical and surgical care in Chicago for over 21 years.
+												<br><br>
+												We take time to listen to your foot health problems and concerns.
+												<br><br>
+											</td>
+										</tr>
+										<tr>
+											<td colspan ="2">
+												<table width ="100%" cellspacing ="7" cellpadding ="0">
+													<tr>
+														<td valign ="top">
+															All of our new patient appointments include a thorough, comprehensive evaluation with in office x-rays, if needed, which are immediately developed and read on site.
+															<br><br>
+															Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College Campus in North Chicago.  She completed a medical/surgical residency at Loyola University Medical Center and Hines VA Hospital and is board certified.
+															<br><br>
+															She has surgical privileges at several surgical centers and Westlake Hospital.
+															<br><br>
+															We are conveniently located at the northeast corner of Washington and Wabash in the Loop with hours 8:30 to 4:30 Monday Tuesday Thursday, and 9:00-12:00 on Fridays.  We do not overbook patients to assure efficient on time scheduling.  We have a second office location in the near west suburb of Melrose Park at Westlake Hospital Professional Office Building.
+															<br><br>
+															Foot pain is never normal and should be evaluated.  As a board certified podiatrist Dr. Ouska-Griffin treats all problems of the foot and ankle. We look forward to meeting you and treating your feet.
+														</td>
+														<td align = "center">
+															<img width="200" height = "450" src ="images\office2.png"/>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+								<td width = "10"> </td>
+								<td width = "10" background ="images\side_ColumnLeftBorder.png"> </td>
+							</tr>
+							</table>
+					</td>
+				</tr>
+				<tr height= "25">
+					<td background = "images\footer_MainBorder.png">  </td>
+				</tr>
+				<tr>
+					<td>
+						<table  width = "1000" cellspacing = "5" cellpadding = "5">
+							<tr align = "center">
+								<td><font size="2"> Diabetic Foot</font> </td>
+								<td><font size="2"> Orthotics </font></td>
+								<td><font size="2"> Walking for Fitness </font></td>
+								<td><font size="2"> Injuries </font></td>
+								<td><font size="2"> New Patient Info </font></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+
+
