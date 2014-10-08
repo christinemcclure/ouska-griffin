@@ -9969,11 +9969,14 @@ p.header a {
 /* line 85, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
+  height: 45px;
+  border: none;
+  margin: 0;
 }
 
 /* general */
 @media only screen and (min-width: 64.063em) {
-  /* line 92, ../scss/app.scss */
+  /* line 95, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;

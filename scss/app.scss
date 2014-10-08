@@ -81,9 +81,12 @@ p.header a{
     border-bottom: 8px solid $ltTeal;
 }
 
-// move interior menu back to original line height
+// reset interior menu
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height:45px;
+  height: 45px;
+  border:none;
+  margin:0;
 }
 
 
