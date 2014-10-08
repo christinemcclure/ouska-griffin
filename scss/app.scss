@@ -73,6 +73,9 @@ p.header a{
   color: $cream;
   font-family: $header-font;    
 }
+.top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover{
+  color:darken($cream,10%);
+}
 // stretch header to fit second line
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
     background: $teal;

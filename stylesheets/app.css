@@ -9958,7 +9958,12 @@ p.header a {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* line 77, ../scss/app.scss */
+/* line 76, ../scss/app.scss */
+.top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover {
+  color: #f5ddc1;
+}
+
+/* line 80, ../scss/app.scss */
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
   background: #185459;
   height: 70px;
@@ -9966,7 +9971,7 @@ p.header a {
   border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 85, ../scss/app.scss */
+/* line 88, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -9976,7 +9981,7 @@ p.header a {
 
 /* general */
 @media only screen and (min-width: 64.063em) {
-  /* line 95, ../scss/app.scss */
+  /* line 98, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
