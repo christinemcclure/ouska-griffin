@@ -40,20 +40,23 @@
 //   "foundation/components/visibility";
 
 // Color Scheme modified from this theme: http://www.colourlovers.com/palette/223950/Blind_Colors
-// cream #FCF5ED rba(252,245,237)
-// extra dark brown (p font) #110504 rgb(17,5,4)
-// brown (h font) #3A120C rgb(58,18,12)
-// teal (header) #185459 rgb(24,84,89)
-// light teal (header border) #A4C8C6 rgb(164,200,198)
+$cream: rgb(252,245,237);
+$dkBrown: rgb(17,5,4);
+$brown: rgb(58,18,12);
+$teal: rgb(24,84,89);
+$ltTeal: rgb(164,200,198);
 
 $header-font: "oswald", "Helvetica", Helvetica, Arial, sans-serif !default;
 $body-font: "notosans", "Helvetica", Helvetica, Arial, sans-serif !default;
 
 body,html{
+  background-color: $cream;
+  color: $dkBrown;
   font-family: $body-font;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color: $brown;
   font-family: $header-font;
 }
 

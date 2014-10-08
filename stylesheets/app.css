@@ -9929,39 +9929,42 @@ th.hide-for-touch {
 }
 /* line 52, ../scss/app.scss */
 body, html {
+  background-color: #fcf5ed;
+  color: #110504;
   font-family: "notosans", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* line 56, ../scss/app.scss */
+/* line 58, ../scss/app.scss */
 h1, h2, h3, h4, h5, h6 {
+  color: #3a120c;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
 /* header */
-/* line 62, ../scss/app.scss */
+/* line 65, ../scss/app.scss */
 .top-bar .name h1 a {
   margin: 10px 0 0 0;
   line-height: 24px;
 }
 
-/* line 66, ../scss/app.scss */
+/* line 69, ../scss/app.scss */
 p.header a {
   padding: 0 0 0 15px;
 }
 
-/* line 69, ../scss/app.scss */
+/* line 72, ../scss/app.scss */
 .top-bar-section ul li > a, p.header a {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* line 73, ../scss/app.scss */
+/* line 76, ../scss/app.scss */
 .top-bar {
   height: 70px;
 }
 
 /* general */
 @media only screen and (min-width: 64.063em) {
-  /* line 79, ../scss/app.scss */
+  /* line 82, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
