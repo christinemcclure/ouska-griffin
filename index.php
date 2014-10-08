@@ -1,8 +1,8 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/includes/html-head.html"); ?>
+<?php include("/includes/html-head.html"); ?>
   
 <body>
 
-<?php include($_SERVER['DOCUMENT_ROOT']."/includes/header-and-nav.html"); ?>    
+<?php include("/includes/header-and-nav.html"); ?>    
  
 <div class="row">
   <div class="large-12 columns"><h1>Where will your feet take you today?</h1></div>
