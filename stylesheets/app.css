@@ -9986,12 +9986,17 @@ nav.top-bar {
 
 /* general */
 /* line 102, ../scss/app.scss */
+h1 {
+  margin: 10px 0 20px 0;
+}
+
+/* line 106, ../scss/app.scss */
 img.inline-wrap {
   margin: 4px 20px 10px 0;
 }
 
 @media only screen and (min-width: 64.063em) {
-  /* line 107, ../scss/app.scss */
+  /* line 111, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
