@@ -9952,18 +9952,12 @@ p.header a {
   padding: 0 0 0 15px;
 }
 
-/* line 72, ../scss/app.scss */
-.top-bar-section ul li > a, p.header a {
-  color: #fcf5ed;
-  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
-}
-
-/* line 76, ../scss/app.scss */
+/* line 73, ../scss/app.scss */
 .top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover {
   color: #f5ddc1;
 }
 
-/* line 80, ../scss/app.scss */
+/* line 77, ../scss/app.scss */
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
   background: #185459;
   height: 70px;
@@ -9971,12 +9965,24 @@ p.header a {
   border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 87, ../scss/app.scss */
+/* line 84, ../scss/app.scss */
+.top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+  color: #fcf5ed;
+  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
+  background: #185459;
+}
+
+/* line 90, ../scss/app.scss */
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
+  background: #0d2e31;
+}
+
+/* line 94, ../scss/app.scss */
 nav.top-bar {
   margin: 0 0 30px 0;
 }
 
-/* line 92, ../scss/app.scss */
+/* line 99, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -9984,19 +9990,24 @@ nav.top-bar {
   margin: 0;
 }
 
+/* line 106, ../scss/app.scss */
+.top-bar-section ul li {
+  background: #185459;
+}
+
 /* general */
-/* line 102, ../scss/app.scss */
+/* line 112, ../scss/app.scss */
 h1 {
   margin: 10px 0 20px 0;
 }
 
-/* line 106, ../scss/app.scss */
+/* line 116, ../scss/app.scss */
 img.inline-wrap {
   margin: 4px 20px 10px 0;
 }
 
 @media only screen and (min-width: 64.063em) {
-  /* line 111, ../scss/app.scss */
+  /* line 121, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;

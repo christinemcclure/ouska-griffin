@@ -69,19 +69,26 @@ h1, h2, h3, h4, h5, h6 {
 p.header a{
   padding: 0 0 0 15px;
 }
-.top-bar-section ul li > a, p.header a {
-  color: $cream;
-  font-family: $header-font;    
-}
+
 .top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover{
   color:darken($cream,10%);
 }
 // stretch header to fit second line
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
-    background: $teal;
-    height:70px;
-    line-height: 70px;
-    border-bottom: 8px solid $ltTeal;
+  background: $teal;
+  height:70px;
+  line-height: 70px;
+  border-bottom: 8px solid $ltTeal;
+}
+
+.top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button)  {
+  color: $cream;
+  font-family: $header-font;    
+  background: $teal;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
+  background: darken($teal,10%);
 }
 
 nav.top-bar{
@@ -96,6 +103,9 @@ nav.top-bar{
   margin:0;
 }
 
+.top-bar-section ul li {
+  background: $teal;
+}
 
 /* general */
 
