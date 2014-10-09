@@ -9999,15 +9999,16 @@ nav.top-bar {
 /* line 112, ../scss/app.scss */
 h1 {
   margin: 10px 0 20px 0;
+  font-size: 2.125rem;
 }
 
-/* line 116, ../scss/app.scss */
+/* line 117, ../scss/app.scss */
 img.inline-wrap {
   margin: 4px 20px 10px 0;
 }
 
 @media only screen and (min-width: 64.063em) {
-  /* line 121, ../scss/app.scss */
+  /* line 122, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
