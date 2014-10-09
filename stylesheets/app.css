@@ -10007,7 +10007,7 @@ img.inline-wrap {
   margin: 4px 20px 10px 0;
 }
 
-@media only screen and (min-width: 64.063em) {
+@media only screen and (min-width: 40.063em) {
   /* line 122, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
