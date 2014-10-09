@@ -24,10 +24,10 @@
 
     
 <div class="row">
-<div class="large-4 columns">
+<div class="large-3 columns">
 <h4>Our focus: Personal and Conservative Care</h4>
 </div>
-<div class="large-8 columns">
+<div class="large-9 columns">
   <p>
 Exceptional podiatric medicine begins with a thoughtful, and skilled diagnosis. Dr. Ouska-Griffin takes the time to listen to your description of your foot problem and concerns. We want to know where your feet take you in a normal day and what demands and stresses they face. We consider how other health issue might affect your feet. This personal and comprehensive approach is the core of a strong professional diagnostic evaluation. 
   </p>
@@ -41,10 +41,10 @@ Exceptional podiatric medicine begins with a thoughtful, and skilled diagnosis. 
 </div>
  
 <div class="row">
-<div class="large-4 columns">
+<div class="large-3 columns">
 <h4>Our patients:</h4>
 </div>
-<div class="large-8 columns">
+<div class="large-9 columns">
   <p>
 We are fortunate to serve a mix of long-time loyal patients and a growing stream of new patients, young adults to seniors, seeking personal care with a focus on them as a patient and as an individual. Our patients trust us to diagnose and treat a broad range of foot problems- acute and chronic, infections, injuries and structural. Our patients have a wide range of insurance plans. We are in network in most insurance plans. We accept both traditional and advantage Medicare insurance as well as plans under the Affordable Care Act. We do not accept HMO plans nor Medicaid. In a growing trend some patients must consider paying directly when their insurance plan does not provide coverage. We offer discounts from our standard fees on noncovered major procedures and custom orthotics, 50% or more, payable at time of service. [Smaller discounts may be available for noncovered office visits, x-rays, minor procedures and supplies.].
   </p>
@@ -52,10 +52,10 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
 </div>
 
 <div class="row">
-<div class="large-4 columns">
+<div class="large-3 columns">
 <h4>Our practice:</h4>
 </div>
-<div class="large-8 columns">
+<div class="large-9 columns">
   <img class="inline-wrap" src="images/drphoto.jpg" alt="photograph of Dr. Ouska-Griffin.">
       <p>
         Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College. She completed a medical/surgical residency at Loyola University Medical Center and Hines VA Hospital and has been board certified for over two decades. Since 1989, she has been conveniently located in the Loop at the northeast corner of Washington and Wabash just a half block west of Millennium Park. We know you have a wide choice of podiatrists. Most are fine doctors. Should you select Dr. Ouska-Griffin, she looks forward to listening to your needs and determining the best path toward pain free feet.
