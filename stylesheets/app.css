@@ -9980,11 +9980,15 @@ p.header a {
 }
 
 /* general */
+/* line 98, ../scss/app.scss */
+img.inline-wrap {
+  margin: 4px 20px 10px 0;
+}
+
 @media only screen and (min-width: 64.063em) {
-  /* line 98, ../scss/app.scss */
+  /* line 103, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
-    margin: 4px 20px 10px 0;
   }
 }

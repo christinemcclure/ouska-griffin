@@ -94,11 +94,15 @@ p.header a{
 
 
 /* general */
+
+img.inline-wrap{
+    margin: 4px 20px 10px 0;
+} 
+
 @media only screen and (min-width: 64.063em){
     img.inline-wrap{
         display: inline-block !important;
         float:left;
-        margin: 4px 20px 10px 0;
     }
 }
 
