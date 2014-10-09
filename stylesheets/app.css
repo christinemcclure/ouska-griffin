@@ -9971,7 +9971,12 @@ p.header a {
   border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 88, ../scss/app.scss */
+/* line 87, ../scss/app.scss */
+nav.top-bar {
+  margin: 0 0 30px 0;
+}
+
+/* line 92, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -9980,13 +9985,13 @@ p.header a {
 }
 
 /* general */
-/* line 98, ../scss/app.scss */
+/* line 102, ../scss/app.scss */
 img.inline-wrap {
   margin: 4px 20px 10px 0;
 }
 
 @media only screen and (min-width: 64.063em) {
-  /* line 103, ../scss/app.scss */
+  /* line 107, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
