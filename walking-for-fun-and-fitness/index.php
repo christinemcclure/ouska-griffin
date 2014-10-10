@@ -35,6 +35,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
   <h4>What constitutes a good walking shoe?</h4>
   </div>
   <div class="large-9 columns">
+    <img class="inline-wrap-right" src="../images/walking-shoes.jpg" alt="Close-up photograph of a person's feet wearing running shoes walking through fallen leaves.">
         <p>
           This is not an easy question to answer. According to one professional society,</p> 
         <blockquote>To date there has not been a reliable, repeatable methodology of footwear assessment that meets the standards of evidenced based medicine….</blockquote>

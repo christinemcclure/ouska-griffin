@@ -10007,21 +10007,31 @@ img.inline-wrap, img.inline-wrap-large {
   margin: 4px 20px 10px 0;
 }
 
-/* line 123, ../scss/app.scss */
+/* line 121, ../scss/app.scss */
+img.inline-wrap-right {
+  margin: 4px 0 10px 20px;
+}
+
+/* line 125, ../scss/app.scss */
 blockquote {
   border: none;
   color: #85271f !important;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 129, ../scss/app.scss */
+  /* line 131, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
+
+  /* line 135, ../scss/app.scss */
+  img.inline-wrap-right {
+    float: right;
+  }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 137, ../scss/app.scss */
+  /* line 142, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
