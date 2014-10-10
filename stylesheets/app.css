@@ -10003,7 +10003,7 @@ h1 {
 }
 
 /* line 118, ../scss/app.scss */
-img.inline-wrap {
+img.inline-wrap, img.inline-wrap-large {
   margin: 4px 20px 10px 0;
 }
 
@@ -10016,6 +10016,13 @@ blockquote {
 @media only screen and (min-width: 40.063em) {
   /* line 129, ../scss/app.scss */
   img.inline-wrap {
+    display: inline-block !important;
+    float: left;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 137, ../scss/app.scss */
+  img.inline-wrap-large {
     display: inline-block !important;
     float: left;
   }

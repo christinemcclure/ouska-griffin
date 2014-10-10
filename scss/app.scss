@@ -115,7 +115,7 @@ h1 {
   font-size: 2.125rem;
 }
 
-img.inline-wrap{
+img.inline-wrap, img.inline-wrap-large{
     margin: 4px 20px 10px 0;
 } 
 
@@ -132,3 +132,10 @@ blockquote {
     }
 }
 
+
+@media only screen and (min-width: 64.063em){
+    img.inline-wrap-large{
+        display: inline-block !important;
+        float:left;
+    }
+}

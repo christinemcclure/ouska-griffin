@@ -9,7 +9,7 @@
   
 <div class="row">
 <div class="large-12 columns">
-<img class="inline-wrap" src="../images/walking-woman.jpg" alt="Photograph of woman walking along a lakefront.">
+<img class="inline-wrap-large" src="../images/walking-woman.jpg" alt="Photograph of woman walking along a lakefront.">
   
   <p>
 Walking for fun or fitness is a wonderful mild to moderate exercise. It is much less stressful to our larger joints-ankles knees and hips as we age. Not all of us want to be strapped to a “walking program,” we just like being out of doors and moving. Even a causal stroll offers health and mental benefits.
