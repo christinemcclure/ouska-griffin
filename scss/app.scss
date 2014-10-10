@@ -45,6 +45,7 @@ $dkBrown: rgb(17,5,4);
 $brown: rgb(58,18,12);
 $teal: rgb(24,84,89);
 $ltTeal: rgb(164,200,198);
+$blockquoteColor: lighten($dkBrown,28);
 
 $header-font: "oswald", "Helvetica", Helvetica, Arial, sans-serif !default;
 $body-font: "notosans", "Helvetica", Helvetica, Arial, sans-serif !default;
@@ -117,6 +118,12 @@ h1 {
 img.inline-wrap{
     margin: 4px 20px 10px 0;
 } 
+
+
+blockquote {
+  border:none;
+  color:$blockquoteColor !important;
+}
 
 @media only screen and (min-width: 40.063em){
     img.inline-wrap{
