@@ -82,7 +82,7 @@ p.header a{
   border-bottom: 8px solid $ltTeal;
 }
 
-.top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button)  {
+.top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button)  {
   color: $cream;
   font-family: $header-font;    
   background: $teal;

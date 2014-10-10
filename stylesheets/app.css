@@ -9966,7 +9966,7 @@ p.header a {
 }
 
 /* line 85, ../scss/app.scss */
-.top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+.top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   color: #fcf5ed;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   background: #185459;
