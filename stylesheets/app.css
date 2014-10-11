@@ -10004,12 +10004,12 @@ h1 {
 
 /* line 118, ../scss/app.scss */
 img.inline-wrap, img.inline-wrap-large {
-  margin: 4px 20px 10px 0;
+  margin: 4px 20px 20px 0;
 }
 
 /* line 121, ../scss/app.scss */
 img.inline-wrap-right {
-  margin: 4px 0 10px 20px;
+  margin: 4px 0 20px 20px;
 }
 
 /* line 125, ../scss/app.scss */
