@@ -11,7 +11,7 @@
 <div class="row">
   <div class="large-12 columns">
     <img src="../images/orthotics-flowchart.png" alt="A vector image of three circles shown in a row, slightly overlapping. The first circle has the text: 'Designed by a podiatrist through a diagnosis of your specific biomechanics;' the second circle says: 'Type, materials, and special enhancements guided by a discussion between you and your podiatrist;' the third is: 'Fabricated by a specialized lab from a detailed prescription, often enhanced by direct communication.'">
-    <h2>There are three major elements to podiatric prescribed custom orthotics</h2>
+    <h2 class="bump">There are three major elements to podiatric prescribed custom orthotics</h2>
   </div>    
 </div>  
 
