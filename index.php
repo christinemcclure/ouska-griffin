@@ -25,7 +25,7 @@
     
 <div class="row">
 <div class="large-3 columns">
-<h4>Our focus: Personal and Conservative Care</h4>
+<h4>Our focus: personal and conservative care</h4>
 </div>
 <div class="large-9 columns">
   <p>
