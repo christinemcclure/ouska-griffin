@@ -63,8 +63,4 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
 </div>    
 </div>
     
-<script src="bower_components/jquery/dist/jquery.min.js"></script>
-<script src="bower_components/foundation/js/foundation.min.js"></script>
-<script src="js/app.js"></script>
-</body>
-</html>
+<?php include("includes/html-bottom.html"); ?>  
