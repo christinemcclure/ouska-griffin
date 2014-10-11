@@ -61,6 +61,64 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $header-font;
 }
 
+/* general */
+
+h1 {
+  margin: 10px 0 20px 0;
+  font-size: 2.125rem;
+}
+
+h2 {
+  font-size: 1.80rem;
+}
+
+h2.bump {
+  margin: 10px 0 50px 0;
+}
+
+h4 {
+  margin: 0 0 30px 0;
+  font-size: 1.2rem;
+}
+
+img {
+  margin: 4px 0 20px 0;
+}
+
+img.inline-wrap, img.inline-wrap-large{
+  margin: 4px 20px 20px 0;
+}
+
+img.inline-wrap-right{
+  margin: 4px 0 20px 20px;
+}
+
+blockquote {
+  border:none;
+  color:$blockquoteColor !important;
+}
+
+a {
+  color: $teal;
+  font-weight:bold;
+}
+
+a:hover{
+  color: lighten($teal,20%);
+}
+
+ul.indented li {
+  margin-left: 20px;
+}
+
+ul.bump{
+  margin: 20px 0 0 0;
+}
+
+ul.no-decor{
+  list-style-type: none;
+}
+
 /* header */
 
 .top-bar .name h1 a {
@@ -108,53 +166,7 @@ nav.top-bar{
   background: $teal;
 }
 
-/* general */
 
-h1 {
-  margin: 10px 0 20px 0;
-  font-size: 2.125rem;
-}
-
-h2 {
-  font-size: 1.80rem;
-}
-
-h2.bump {
-  margin: 10px 0 50px 0;
-}
-
-h4 {
-  margin: 0 0 30px 0;
-  font-size: 1.2rem;
-}
-
-img {
-  margin: 4px 0 20px 0;
-}
-
-img.inline-wrap, img.inline-wrap-large{
-  margin: 4px 20px 20px 0;
-}
-
-img.inline-wrap-right{
-  margin: 4px 0 20px 20px;
-}
-
-blockquote {
-  border:none;
-  color:$blockquoteColor !important;
-}
-
-ul.indented li {
-  margin-left: 20px;
-}
-ul.bump{
-  margin: 20px 0 0 0;
-}
-
-ul.no-decor{
-  list-style-type: none;
-}
 
 @media only screen and (min-width: 40.063em){
     img.inline-wrap{

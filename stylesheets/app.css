@@ -9940,24 +9940,94 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* header */
+/* general */
 /* line 66, ../scss/app.scss */
+h1 {
+  margin: 10px 0 20px 0;
+  font-size: 2.125rem;
+}
+
+/* line 71, ../scss/app.scss */
+h2 {
+  font-size: 1.80rem;
+}
+
+/* line 75, ../scss/app.scss */
+h2.bump {
+  margin: 10px 0 50px 0;
+}
+
+/* line 79, ../scss/app.scss */
+h4 {
+  margin: 0 0 30px 0;
+  font-size: 1.2rem;
+}
+
+/* line 84, ../scss/app.scss */
+img {
+  margin: 4px 0 20px 0;
+}
+
+/* line 88, ../scss/app.scss */
+img.inline-wrap, img.inline-wrap-large {
+  margin: 4px 20px 20px 0;
+}
+
+/* line 92, ../scss/app.scss */
+img.inline-wrap-right {
+  margin: 4px 0 20px 20px;
+}
+
+/* line 96, ../scss/app.scss */
+blockquote {
+  border: none;
+  color: #85271f !important;
+}
+
+/* line 101, ../scss/app.scss */
+a {
+  color: #185459;
+  font-weight: bold;
+}
+
+/* line 106, ../scss/app.scss */
+a:hover {
+  color: #2ea0a9;
+}
+
+/* line 110, ../scss/app.scss */
+ul.indented li {
+  margin-left: 20px;
+}
+
+/* line 114, ../scss/app.scss */
+ul.bump {
+  margin: 20px 0 0 0;
+}
+
+/* line 118, ../scss/app.scss */
+ul.no-decor {
+  list-style-type: none;
+}
+
+/* header */
+/* line 124, ../scss/app.scss */
 .top-bar .name h1 a {
   margin: 10px 0 0 0;
   line-height: 24px;
 }
 
-/* line 70, ../scss/app.scss */
+/* line 128, ../scss/app.scss */
 p.header a {
   padding: 0 0 0 15px;
 }
 
-/* line 74, ../scss/app.scss */
+/* line 132, ../scss/app.scss */
 .top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover {
   color: #f5ddc1;
 }
 
-/* line 78, ../scss/app.scss */
+/* line 136, ../scss/app.scss */
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
   background: #185459;
   height: 70px;
@@ -9965,24 +10035,24 @@ p.header a {
   border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 85, ../scss/app.scss */
+/* line 143, ../scss/app.scss */
 .top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   color: #fcf5ed;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   background: #185459;
 }
 
-/* line 91, ../scss/app.scss */
+/* line 149, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
   background: #0d2e31;
 }
 
-/* line 95, ../scss/app.scss */
+/* line 153, ../scss/app.scss */
 nav.top-bar {
   margin: 0 0 30px 0;
 }
 
-/* line 100, ../scss/app.scss */
+/* line 158, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -9990,84 +10060,25 @@ nav.top-bar {
   margin: 0;
 }
 
-/* line 107, ../scss/app.scss */
+/* line 165, ../scss/app.scss */
 .top-bar-section ul li {
   background: #185459;
 }
 
-/* general */
-/* line 113, ../scss/app.scss */
-h1 {
-  margin: 10px 0 20px 0;
-  font-size: 2.125rem;
-}
-
-/* line 118, ../scss/app.scss */
-h2 {
-  font-size: 1.80rem;
-}
-
-/* line 122, ../scss/app.scss */
-h2.bump {
-  margin: 10px 0 50px 0;
-}
-
-/* line 126, ../scss/app.scss */
-h4 {
-  margin: 0 0 30px 0;
-  font-size: 1.2rem;
-}
-
-/* line 131, ../scss/app.scss */
-img {
-  margin: 4px 0 20px 0;
-}
-
-/* line 135, ../scss/app.scss */
-img.inline-wrap, img.inline-wrap-large {
-  margin: 4px 20px 20px 0;
-}
-
-/* line 139, ../scss/app.scss */
-img.inline-wrap-right {
-  margin: 4px 0 20px 20px;
-}
-
-/* line 143, ../scss/app.scss */
-blockquote {
-  border: none;
-  color: #85271f !important;
-}
-
-/* line 148, ../scss/app.scss */
-ul.indented li {
-  margin-left: 20px;
-}
-
-/* line 151, ../scss/app.scss */
-ul.bump {
-  margin: 20px 0 0 0;
-}
-
-/* line 155, ../scss/app.scss */
-ul.no-decor {
-  list-style-type: none;
-}
-
 @media only screen and (min-width: 40.063em) {
-  /* line 160, ../scss/app.scss */
+  /* line 172, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 164, ../scss/app.scss */
+  /* line 176, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 171, ../scss/app.scss */
+  /* line 183, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
