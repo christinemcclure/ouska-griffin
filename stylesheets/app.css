@@ -10044,20 +10044,30 @@ ul.indented li {
   margin-left: 20px;
 }
 
+/* line 151, ../scss/app.scss */
+ul.bump {
+  margin: 20px 0 0 0;
+}
+
+/* line 155, ../scss/app.scss */
+ul.no-decor {
+  list-style-type: none;
+}
+
 @media only screen and (min-width: 40.063em) {
-  /* line 153, ../scss/app.scss */
+  /* line 160, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 157, ../scss/app.scss */
+  /* line 164, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 164, ../scss/app.scss */
+  /* line 171, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

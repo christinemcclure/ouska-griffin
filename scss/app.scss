@@ -148,6 +148,13 @@ blockquote {
 ul.indented li {
   margin-left: 20px;
 }
+ul.bump{
+  margin: 20px 0 0 0;
+}
+
+ul.no-decor{
+  list-style-type: none;
+}
 
 @media only screen and (min-width: 40.063em){
     img.inline-wrap{
