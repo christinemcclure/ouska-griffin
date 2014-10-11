@@ -50,7 +50,8 @@ Ill-fitting shoes or socks can lead to blisters, a major concern for podiatrists
     <ul class="bump no-decor">
     <li><a href="http://www.diabetes.org/living-with-diabetes/complications/foot-complications/foot-care.html">American Diabetes Association</a></li>
         <li><a href="http://www.ndep.nih.gov/media/NDEP4_TakeCareOfFeet_4c_508.pdf">National Diabetes Education Program</a> from the National Institutes of Health</li>
-    </ul>    
+    </ul>   
+    <p></p>
   </div>
  </div>   
   
