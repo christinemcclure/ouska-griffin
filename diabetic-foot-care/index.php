@@ -25,7 +25,6 @@
   </div>    
 </div>  
 
-
  <div class="row">
   <div class="large-3 columns"><h2>Home care tips</h2></div>
   <div class="large-9 columns">
