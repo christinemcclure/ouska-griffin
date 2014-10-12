@@ -10027,31 +10027,41 @@ p.header {
 }
 
 /* line 134, ../scss/app.scss */
-.top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
+.top-bar-section li:not(.has-form) a:not(.button) {
   background: #185459;
-  height: 70px;
-  line-height: 70px;
+  height: 45px;
+  line-height: 45px;
   border-bottom: 8px solid #a4c8c6;
 }
 
 /* line 141, ../scss/app.scss */
-.top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+ul.dropdown lix {
+  height: 45px;
+}
+
+/* line 145, ../scss/app.scss */
+.top-bar, .top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   color: #fcf5ed;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   background: #185459;
 }
 
-/* line 147, ../scss/app.scss */
+/* line 151, ../scss/app.scss */
+.top-bar {
+  border-bottom: 8px solid #a4c8c6;
+}
+
+/* line 154, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
   background: #0d2e31;
 }
 
-/* line 151, ../scss/app.scss */
+/* line 158, ../scss/app.scss */
 nav.top-bar {
   margin: 0 0 30px 0;
 }
 
-/* line 156, ../scss/app.scss */
+/* line 163, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -10059,41 +10069,47 @@ nav.top-bar {
   margin: 0;
 }
 
-/* line 163, ../scss/app.scss */
+/* line 170, ../scss/app.scss */
 .top-bar-section ul li {
   background: #185459;
 }
 
 @media only screen and (min-width: 1em) {
-  /* line 168, ../scss/app.scss */
+  /* line 175, ../scss/app.scss */
+  .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
+    height: 70px;
+    line-height: 70px;
+  }
+
+  /* line 179, ../scss/app.scss */
   p.header {
     display: block;
   }
 
-  /* line 169, ../scss/app.scss */
+  /* line 180, ../scss/app.scss */
   p.header a {
     padding: 0 0 0 15px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 175, ../scss/app.scss */
+  /* line 186, ../scss/app.scss */
   .top-bar .name h1 a {
     margin: 10px 0 0 0;
   }
 
-  /* line 178, ../scss/app.scss */
+  /* line 189, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 182, ../scss/app.scss */
+  /* line 193, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 190, ../scss/app.scss */
+  /* line 201, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
