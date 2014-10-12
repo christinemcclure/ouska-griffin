@@ -10017,17 +10017,17 @@ ul.no-decor {
   line-height: 24px;
 }
 
-/* line 128, ../scss/app.scss */
-p.header a {
-  padding: 0 0 0 15px;
+/* line 129, ../scss/app.scss */
+p.header {
+  display: none;
 }
 
-/* line 132, ../scss/app.scss */
+/* line 131, ../scss/app.scss */
 .top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover {
   color: #f5ddc1;
 }
 
-/* line 136, ../scss/app.scss */
+/* line 135, ../scss/app.scss */
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
   background: #185459;
   height: 70px;
@@ -10035,24 +10035,24 @@ p.header a {
   border-bottom: 8px solid #a4c8c6;
 }
 
-/* line 143, ../scss/app.scss */
+/* line 142, ../scss/app.scss */
 .top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   color: #fcf5ed;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   background: #185459;
 }
 
-/* line 149, ../scss/app.scss */
+/* line 148, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
   background: #0d2e31;
 }
 
-/* line 153, ../scss/app.scss */
+/* line 152, ../scss/app.scss */
 nav.top-bar {
   margin: 0 0 30px 0;
 }
 
-/* line 158, ../scss/app.scss */
+/* line 157, ../scss/app.scss */
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
   height: 45px;
@@ -10060,25 +10060,36 @@ nav.top-bar {
   margin: 0;
 }
 
-/* line 165, ../scss/app.scss */
+/* line 164, ../scss/app.scss */
 .top-bar-section ul li {
   background: #185459;
 }
 
+@media only screen and (min-width: 1em) {
+  /* line 169, ../scss/app.scss */
+  p.header {
+    display: block;
+  }
+
+  /* line 170, ../scss/app.scss */
+  p.header a {
+    padding: 0 0 0 15px;
+  }
+}
 @media only screen and (min-width: 40.063em) {
-  /* line 172, ../scss/app.scss */
+  /* line 176, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 176, ../scss/app.scss */
+  /* line 180, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 183, ../scss/app.scss */
+  /* line 187, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

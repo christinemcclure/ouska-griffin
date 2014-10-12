@@ -125,9 +125,8 @@ ul.no-decor{
   margin:10px 0 0 0;  
   line-height: 24px;
 }
-p.header a{
-  padding: 0 0 0 15px;
-}
+
+p.header{display:none;}// hide locations in mobile
 
 .top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover{
   color:darken($cream,10%);
@@ -166,7 +165,12 @@ nav.top-bar{
   background: $teal;
 }
 
-
+@media only screen and (min-width: 1em){
+  p.header{display:block;}
+  p.header a{
+    padding: 0 0 0 15px;
+  }  
+}
 
 @media only screen and (min-width: 40.063em){
     img.inline-wrap{
