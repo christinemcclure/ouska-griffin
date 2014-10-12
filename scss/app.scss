@@ -122,7 +122,6 @@ ul.no-decor{
 /* header */
 
 .top-bar .name h1 a {
-  margin:10px 0 0 0;  
   line-height: 24px;
 }
 
@@ -173,6 +172,9 @@ nav.top-bar{
 }
 
 @media only screen and (min-width: 40.063em){
+  .top-bar .name h1 a {
+    margin:10px 0 0 0;  
+  }
     img.inline-wrap{
         display: inline-block !important;
         float:left;
@@ -184,6 +186,7 @@ nav.top-bar{
 
 
 @media only screen and (min-width: 64.063em){
+
     img.inline-wrap-large{
         display: inline-block !important;
         float:left;
