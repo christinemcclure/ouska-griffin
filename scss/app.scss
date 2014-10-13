@@ -42,7 +42,12 @@
 
 .top-bar .name p {
   font-family: $header-font;
+  color:$cream;
 }
+  .top-bar .name p a {
+    color: $cream;
+    font-weight: normal;
+  }
 
 /* general */
 
