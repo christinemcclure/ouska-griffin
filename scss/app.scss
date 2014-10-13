@@ -121,72 +121,11 @@ ul.no-decor{
 
 /* header */
 
-.top-bar .name h1 a {
-  line-height: 24px;
-}
-
-p.header{display:none;}// hide locations in mobile
-
-.top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover{
-  color:darken($cream,10%);
-}
-// stretch header to fit second line
-.top-bar-section li:not(.has-form) a:not(.button) {
-  background: $teal;
-  height:45px;
-  line-height: 45px;
-  border-bottom: 8px solid $ltTeal;
-}
-
-ul.dropdown lix{
-  height: 45px;
-}
-
-.top-bar, .top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button)  {
-  color: $cream;
-  font-family: $header-font;    
-  background: $teal;
-}
-
-.top-bar{
-   border-bottom: 8px solid $ltTeal;
-}
-.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
-  background: darken($teal,10%);
-}
-
-nav.top-bar{
-  margin: 0 0 30px 0;
-}
-
-// reset interior menu
-.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
-  line-height:45px;
-  height: 45px;
-  border:none;
-  margin:0;
-}
-
-.top-bar-section ul li {
-  background: $teal;
-}
-
 @media only screen and (min-width: 1em){
-  .top-bar, .top-bar-section li:not(.has-form) a:not(.button){
-    height:70px;
-    line-height:70px;
-  }
-  p.header{display:block;}
-  p.header a{
-    padding: 0 0 0 15px;
-  }  
-  .top-bar-section li:not(.has-form) a:not(.button) {border:none;}
 }
 
 @media only screen and (min-width: 40.063em){
-  .top-bar .name h1 a {
-    margin:10px 0 0 0;  
-  }
+
     img.inline-wrap{
         display: inline-block !important;
         float:left;
@@ -194,7 +133,6 @@ nav.top-bar{
     img.inline-wrap-right{
       float:right;
     }
-    .top-bar-section li:not(.has-form) a:not(.button) {border-bottom:8px solid $ltTeal;}
 }
 
 

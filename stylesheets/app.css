@@ -10011,115 +10011,20 @@ ul.no-decor {
 }
 
 /* header */
-/* line 124, ../scss/app.scss */
-.top-bar .name h1 a {
-  line-height: 24px;
-}
-
-/* line 128, ../scss/app.scss */
-p.header {
-  display: none;
-}
-
-/* line 130, ../scss/app.scss */
-.top-bar-section ul li a:hover, .top-bar .name h1 a:hover, p.header a:hover {
-  color: #f5ddc1;
-}
-
-/* line 134, ../scss/app.scss */
-.top-bar-section li:not(.has-form) a:not(.button) {
-  background: #185459;
-  height: 45px;
-  line-height: 45px;
-  border-bottom: 8px solid #a4c8c6;
-}
-
-/* line 141, ../scss/app.scss */
-ul.dropdown lix {
-  height: 45px;
-}
-
-/* line 145, ../scss/app.scss */
-.top-bar, .top-bar.expanded .title-area, .top-bar-section ul li > a, p.header a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
-  color: #fcf5ed;
-  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
-  background: #185459;
-}
-
-/* line 151, ../scss/app.scss */
-.top-bar {
-  border-bottom: 8px solid #a4c8c6;
-}
-
-/* line 154, ../scss/app.scss */
-.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button):hover {
-  background: #0d2e31;
-}
-
-/* line 158, ../scss/app.scss */
-nav.top-bar {
-  margin: 0 0 30px 0;
-}
-
-/* line 163, ../scss/app.scss */
-.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
-  line-height: 45px;
-  height: 45px;
-  border: none;
-  margin: 0;
-}
-
-/* line 170, ../scss/app.scss */
-.top-bar-section ul li {
-  background: #185459;
-}
-
-@media only screen and (min-width: 1em) {
-  /* line 175, ../scss/app.scss */
-  .top-bar, .top-bar-section li:not(.has-form) a:not(.button) {
-    height: 70px;
-    line-height: 70px;
-  }
-
-  /* line 179, ../scss/app.scss */
-  p.header {
-    display: block;
-  }
-
-  /* line 180, ../scss/app.scss */
-  p.header a {
-    padding: 0 0 0 15px;
-  }
-
-  /* line 183, ../scss/app.scss */
-  .top-bar-section li:not(.has-form) a:not(.button) {
-    border: none;
-  }
-}
 @media only screen and (min-width: 40.063em) {
-  /* line 187, ../scss/app.scss */
-  .top-bar .name h1 a {
-    margin: 10px 0 0 0;
-  }
-
-  /* line 190, ../scss/app.scss */
+  /* line 129, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 194, ../scss/app.scss */
+  /* line 133, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
-
-  /* line 197, ../scss/app.scss */
-  .top-bar-section li:not(.has-form) a:not(.button) {
-    border-bottom: 8px solid #a4c8c6;
-  }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 203, ../scss/app.scss */
+  /* line 141, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
