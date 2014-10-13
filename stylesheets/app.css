@@ -10016,20 +10016,25 @@ ul.no-decor {
   line-height: 40px;
 }
 
+/* line 128, ../scss/app.scss */
+.top-bar .name p a {
+  padding: 0 23.33333px;
+}
+
 @media only screen and (min-width: 40.063em) {
-  /* line 132, ../scss/app.scss */
+  /* line 136, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 136, ../scss/app.scss */
+  /* line 140, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 144, ../scss/app.scss */
+  /* line 148, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
