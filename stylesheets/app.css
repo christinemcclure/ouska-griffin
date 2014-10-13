@@ -10011,20 +10011,25 @@ ul.no-decor {
 }
 
 /* header */
+/* line 123, ../scss/app.scss */
+.top-bar .name h1 {
+  line-height: 40px;
+}
+
 @media only screen and (min-width: 40.063em) {
-  /* line 129, ../scss/app.scss */
+  /* line 132, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 133, ../scss/app.scss */
+  /* line 136, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 141, ../scss/app.scss */
+  /* line 144, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
