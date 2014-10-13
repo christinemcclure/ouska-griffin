@@ -9935,7 +9935,7 @@ body, html {
 }
 
 /* line 59, ../scss/app.scss */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, .top-bar .name p {
   color: #3a120c;
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
