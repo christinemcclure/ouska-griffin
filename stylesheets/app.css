@@ -9931,110 +9931,108 @@ th.hide-for-touch {
 body, html {
   background-color: #fcf5ed;
   color: #110504;
-  font-family: "notosans", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-/* line 49, ../scss/app.scss */
-h1, h2, h3, h4, h5, h6, .top-bar .name p {
-  color: #3a120c;
+/* line 48, ../scss/app.scss */
+.top-bar .name p {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
 /* general */
-/* line 56, ../scss/app.scss */
+/* line 54, ../scss/app.scss */
 h1 {
   margin: 10px 0 20px 0;
   font-size: 2.125rem;
 }
 
-/* line 61, ../scss/app.scss */
+/* line 59, ../scss/app.scss */
 h2 {
   font-size: 1.80rem;
 }
 
-/* line 65, ../scss/app.scss */
+/* line 63, ../scss/app.scss */
 h2.bump {
   margin: 10px 0 50px 0;
 }
 
-/* line 69, ../scss/app.scss */
+/* line 67, ../scss/app.scss */
 h4 {
   margin: 0 0 30px 0;
   font-size: 1.2rem;
 }
 
-/* line 74, ../scss/app.scss */
+/* line 72, ../scss/app.scss */
 img {
   margin: 4px 0 20px 0;
 }
 
-/* line 78, ../scss/app.scss */
+/* line 76, ../scss/app.scss */
 img.inline-wrap, img.inline-wrap-large {
   margin: 4px 20px 20px 0;
 }
 
-/* line 82, ../scss/app.scss */
+/* line 80, ../scss/app.scss */
 img.inline-wrap-right {
   margin: 4px 0 20px 20px;
 }
 
-/* line 86, ../scss/app.scss */
+/* line 84, ../scss/app.scss */
 blockquote {
   border: none;
   color: #85271f !important;
 }
 
-/* line 91, ../scss/app.scss */
+/* line 89, ../scss/app.scss */
 a {
   color: #185459;
   font-weight: bold;
 }
 
-/* line 96, ../scss/app.scss */
+/* line 94, ../scss/app.scss */
 a:hover {
   color: #2ea0a9;
 }
 
-/* line 100, ../scss/app.scss */
+/* line 98, ../scss/app.scss */
 ul.indented li {
   margin-left: 20px;
 }
 
-/* line 104, ../scss/app.scss */
+/* line 102, ../scss/app.scss */
 ul.bump {
   margin: 20px 0 0 0;
 }
 
-/* line 108, ../scss/app.scss */
+/* line 106, ../scss/app.scss */
 ul.no-decor {
   list-style-type: none;
 }
 
 /* header */
-/* line 113, ../scss/app.scss */
+/* line 111, ../scss/app.scss */
 .top-bar .name h1 {
   line-height: 40px;
 }
 
-/* line 118, ../scss/app.scss */
+/* line 116, ../scss/app.scss */
 .top-bar .name p a {
   padding: 0 23.33333px;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 126, ../scss/app.scss */
+  /* line 124, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 130, ../scss/app.scss */
+  /* line 128, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 138, ../scss/app.scss */
+  /* line 136, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

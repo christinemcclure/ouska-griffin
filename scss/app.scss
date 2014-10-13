@@ -43,11 +43,9 @@
 body,html{
   background-color: $cream;
   color: $dkBrown;
-  font-family: $body-font;
 }
 
-h1, h2, h3, h4, h5, h6, .top-bar .name p {
-  color: $brown;
+.top-bar .name p {
   font-family: $header-font;
 }
 
