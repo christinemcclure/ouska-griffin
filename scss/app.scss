@@ -39,16 +39,6 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-// Color Scheme modified from this theme: http://www.colourlovers.com/palette/223950/Blind_Colors
-$cream: rgb(252,245,237);
-$dkBrown: rgb(17,5,4);
-$brown: rgb(58,18,12);
-$teal: rgb(24,84,89);
-$ltTeal: rgb(164,200,198);
-$blockquoteColor: lighten($dkBrown,28);
-
-$header-font: "oswald", "Helvetica", Helvetica, Arial, sans-serif !default;
-$body-font: "notosans", "Helvetica", Helvetica, Arial, sans-serif !default;
 
 body,html{
   background-color: $cream;
