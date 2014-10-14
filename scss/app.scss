@@ -108,17 +108,20 @@ ul.no-decor{
 }
 
 /* header */
-.top-bar .name h1 {
-  line-height:40px;
-}
 
+.top-bar .name h1 {
+  line-height: 20px;
+  margin-top: 18px;
+}
 .top-bar .name p {
   display:none;
   a {padding: 0 23.33333px;}
 }
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
-
+  .top-bar .name h1 {
+    line-height:40px;
+  }
 }
 
 
