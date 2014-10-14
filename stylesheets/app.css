@@ -10001,7 +10001,7 @@ ul.no-decor {
 /* line 104, ../scss/app.scss */
 .top-bar .name h1 {
   line-height: 20px;
-  margin: 0;
+  margin: 18px 0 0 0;
 }
 /* line 108, ../scss/app.scss */
 .top-bar .name p {
