@@ -121,12 +121,11 @@ ul.no-decor{
   li a{
     font-family:$header-font;
     color:$cream;      
-    background: darken($teal,10%);
-  }
-}
-  ul.dropdown li a{
+    background: darken($teal,10%);    
     font-size:.95rem;
   }
+}
+
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
   .top-bar .name h1 {
