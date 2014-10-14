@@ -10031,35 +10031,40 @@ ul.no-decor {
   background: #0d2e31;
 }
 
+/* line 127, ../scss/app.scss */
+ul.dropdown li a {
+  font-size: .95rem;
+}
+
 @media only screen and (min-width: 24.25em) {
-  /* line 129, ../scss/app.scss */
+  /* line 132, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 40px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 138, ../scss/app.scss */
+  /* line 141, ../scss/app.scss */
   .top-bar .name p {
     display: block;
   }
-  /* line 141, ../scss/app.scss */
+  /* line 144, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 145, ../scss/app.scss */
+  /* line 148, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 149, ../scss/app.scss */
+  /* line 152, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 157, ../scss/app.scss */
+  /* line 160, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

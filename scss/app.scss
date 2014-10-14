@@ -124,6 +124,9 @@ ul.no-decor{
     background: darken($teal,10%);
   }
 }
+  ul.dropdown li a{
+    font-size:.95rem;
+  }
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
   .top-bar .name h1 {
