@@ -112,6 +112,9 @@ ul.no-decor{
     font-weight: normal;
     a {padding: 0 23.33333px;}
   }
+  .toggle-topbar.menu-icon {
+    top: 25%;
+  }
 }
 
 
@@ -124,8 +127,13 @@ ul.no-decor{
 
 @media only screen and (min-width: 40.063em){
 
-  .top-bar .name p {
-    display:block;
+  .top-bar {
+    .name p {
+      display:block;
+    }
+   .toggle-topbar.menu-icon {
+      top: 25%;
+    }
   }
     img.inline-wrap{
         display: inline-block !important;

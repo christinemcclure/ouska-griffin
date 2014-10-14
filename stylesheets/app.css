@@ -10014,32 +10014,40 @@ ul.no-decor {
 .top-bar .name p a {
   padding: 0 23.33333px;
 }
+/* line 115, ../scss/app.scss */
+.top-bar .toggle-topbar.menu-icon {
+  top: 25%;
+}
 
 @media only screen and (min-width: 24.25em) {
-  /* line 119, ../scss/app.scss */
+  /* line 122, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 40px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 127, ../scss/app.scss */
+  /* line 131, ../scss/app.scss */
   .top-bar .name p {
     display: block;
   }
+  /* line 134, ../scss/app.scss */
+  .top-bar .toggle-topbar.menu-icon {
+    top: 25%;
+  }
 
-  /* line 130, ../scss/app.scss */
+  /* line 138, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 134, ../scss/app.scss */
+  /* line 142, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 142, ../scss/app.scss */
+  /* line 150, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
