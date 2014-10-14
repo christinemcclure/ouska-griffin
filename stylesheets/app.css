@@ -10019,35 +10019,40 @@ ul.no-decor {
   top: 25%;
 }
 
+/* line 119, ../scss/app.scss */
+.top-bar.expanded {
+  background: #185459;
+}
+
 @media only screen and (min-width: 24.25em) {
-  /* line 122, ../scss/app.scss */
+  /* line 123, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 40px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 131, ../scss/app.scss */
+  /* line 132, ../scss/app.scss */
   .top-bar .name p {
     display: block;
   }
-  /* line 134, ../scss/app.scss */
+  /* line 135, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 138, ../scss/app.scss */
+  /* line 139, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 142, ../scss/app.scss */
+  /* line 143, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 150, ../scss/app.scss */
+  /* line 151, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
