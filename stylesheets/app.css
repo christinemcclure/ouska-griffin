@@ -10015,25 +10015,34 @@ ul.no-decor {
   line-height: 40px;
 }
 
-/* line 116, ../scss/app.scss */
+/* line 115, ../scss/app.scss */
+.top-bar .name p {
+  display: none;
+}
+/* line 117, ../scss/app.scss */
 .top-bar .name p a {
   padding: 0 23.33333px;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 124, ../scss/app.scss */
+  /* line 123, ../scss/app.scss */
+  .top-bar .name p {
+    display: block;
+  }
+
+  /* line 126, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 128, ../scss/app.scss */
+  /* line 130, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 136, ../scss/app.scss */
+  /* line 138, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

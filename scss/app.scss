@@ -113,14 +113,16 @@ ul.no-decor{
 }
 
 .top-bar .name p {
+  display:none;
   a {padding: 0 23.33333px;}
 }
 
-@media only screen and (min-width: 1em){
-}
 
 @media only screen and (min-width: 40.063em){
 
+  .top-bar .name p {
+    display:block;
+  }
     img.inline-wrap{
         display: inline-block !important;
         float:left;
