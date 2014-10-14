@@ -117,7 +117,13 @@ ul.no-decor{
   }
 }
 .top-bar.expanded {background:$teal;}
-
+.top-bar-section, ul.right{
+  li a{
+    font-family:$header-font;
+    color:$cream;      
+    background: darken($teal,10%);
+  }
+}
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
   .top-bar .name h1 {
