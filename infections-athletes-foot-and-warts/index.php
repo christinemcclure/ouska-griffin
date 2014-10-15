@@ -20,7 +20,7 @@ There are many different types of foot infections, some simple, and others compl
   
 <div class="row">
     <div class="large-3 columns">
-      <h2>Athlet's foot</h2>
+      <h2>Athlete's foot</h2>
   </div>    
   <div class="large-9 columns">
         <p>
