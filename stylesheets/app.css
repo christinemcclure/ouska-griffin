@@ -10104,22 +10104,21 @@ nav.top-bar {
 
   /* line 190, ../scss/app.scss */
   img.inline-wrap {
-    display: inline-block !important;
     float: left;
   }
 
-  /* line 194, ../scss/app.scss */
+  /* line 193, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 
-  /* line 197, ../scss/app.scss */
+  /* line 196, ../scss/app.scss */
   .top-bar-section li:not(.has-form) a:not(.button) {
     border-bottom: 8px solid #a4c8c6;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 203, ../scss/app.scss */
+  /* line 202, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
