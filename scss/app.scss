@@ -115,6 +115,7 @@ ul.no-decor{
   .toggle-topbar.menu-icon {
     top: 25%;
   }
+  
 }
 .top-bar.expanded {background:$teal;}
 .top-bar-section, ul.right{
@@ -123,6 +124,9 @@ ul.no-decor{
     color:$cream;      
     background: darken($teal,10%);    
     font-size:.95rem;
+  }
+  .dropdown li a:hover{
+    background:$teal;
   }
 }
 
