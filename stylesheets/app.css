@@ -10028,43 +10028,43 @@ ul.no-decor {
 .top-bar-section li a, ul.right li a {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fcf5ed;
-  background: #0d2e31;
+  background: #0b2729;
   font-size: .95rem;
 }
 /* line 128, ../scss/app.scss */
-.top-bar-section .dropdown li a:hover, ul.right .dropdown li a:hover {
-  background: #185459;
+.top-bar-section .dropdown li a:hover, .top-bar-section li.has-dropdown a:hover, .top-bar-section .dropdown li.title h5 a:hover, .top-bar-section .dropdown li.parent-link a:hover, ul.right .dropdown li a:hover, ul.right li.has-dropdown a:hover, ul.right .dropdown li.title h5 a:hover, ul.right .dropdown li.parent-link a:hover {
+  background: #0f3639;
 }
 
 @media only screen and (min-width: 24.25em) {
-  /* line 135, ../scss/app.scss */
+  /* line 136, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 40px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 144, ../scss/app.scss */
+  /* line 145, ../scss/app.scss */
   .top-bar .name p {
     display: block;
   }
-  /* line 147, ../scss/app.scss */
+  /* line 148, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 151, ../scss/app.scss */
+  /* line 152, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 155, ../scss/app.scss */
+  /* line 156, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 163, ../scss/app.scss */
+  /* line 164, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

@@ -122,12 +122,13 @@ ul.no-decor{
   li a{
     font-family:$header-font;
     color:$cream;      
-    background: darken($teal,10%);    
+    background: darken($teal,12%);    
     font-size:.95rem;
   }
-  .dropdown li a:hover{
-    background:$teal;
+  .dropdown li a:hover, li.has-dropdown a:hover, .dropdown li.title h5 a:hover, .dropdown li.parent-link a:hover{
+    background:darken($teal,8%);
   }
+  
 }
 
 
