@@ -101,16 +101,18 @@ ul.no-decor{
 
 /* header */
 .top-bar {
-    .name h1 {
+  .name{
+    h1 {
       line-height: 20px;
       margin: 18px 0 0 0;
     }
-  .name p {
-    display:none; // don't display for mobile
-    font-family: $header-font;
-    color:$cream;
-    font-weight: normal;
-    a {padding: 0 23.33333px;}
+    p {
+      display:none; // don't display for mobile
+      font-family: $header-font;
+      color:$cream;
+      font-weight: normal;
+      a {padding: 0 23.33333px;}
+    }
   }
   .toggle-topbar.menu-icon {
     top: 25%;
