@@ -123,8 +123,8 @@ ul.no-decor{
 }
 .top-bar.expanded, .top-bar.expanded .toggle-topbar a{background:$teal; color:$cream;}
 
-.top-bar-section, ul.right{
-  li a{
+.top-bar-section, ul.right, ul.dropdown{
+  li, li a, li:not(.has-form) a:not(.button):hover{
     font-family:$header-font;
     color:$cream;      
     background: darken($teal,12%);    
