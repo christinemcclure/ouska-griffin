@@ -118,10 +118,9 @@ ul.no-decor{
     top: 25%;
   }
   
-  .top-bar.expanded .toggle-topbar a{color:$cream;}
-  
 }
-.top-bar.expanded {background:$teal;}
+.top-bar.expanded, .top-bar.expanded .toggle-topbar a{background:$teal; color:$cream;}
+
 .top-bar-section, ul.right{
   li a{
     font-family:$header-font;
