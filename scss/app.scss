@@ -109,9 +109,11 @@ ul.no-decor{
     p {
       display:none; // don't display for mobile
       font-family: $header-font;
-      color:$cream;
       font-weight: normal;
-      a {padding: 0 23.33333px;}
+      a {
+        color:$cream;
+        padding: 0 23.33333px;
+      }
     }
   }
   .toggle-topbar.menu-icon {
