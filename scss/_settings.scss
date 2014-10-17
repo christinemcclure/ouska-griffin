@@ -1,3 +1,14 @@
+// Color Scheme modified from this theme: http://www.colourlovers.com/palette/223950/Blind_Colors
+$cream: rgb(252,245,237);
+$dkBrown: rgb(17,5,4);
+$brown: rgb(58,18,12);
+$teal: rgb(24,84,89);
+$ltTeal: rgb(164,200,198);
+$blockquoteColor: lighten($dkBrown,28);
+
+$header-font: "oswald", "Helvetica", Helvetica, Arial, sans-serif !default;
+$body-font: "notosans", "Helvetica", Helvetica, Arial, sans-serif !default;
+///////////
 
 // Foundation by ZURB
 // foundation.zurb.com
@@ -44,9 +55,9 @@ $include-html-global-classes: $include-html-classes;
 // $font-weight-bold: bold !default;
 
 // We use these to control various global styles
-// $body-bg: #fff;
-// $body-font-color: #222;
-// $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+ $body-bg: $cream;
+ $body-font-color: $dkBrown;
+ $body-font-family: $body-font;
 $font-weight-normal:normal;
 $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
@@ -124,7 +135,7 @@ $primary-color: #008CBA;
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
-// $header-font-family: $body-font-family;
+ $header-font-family: $header-font;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: normal;
 // $header-font-color: #222;
@@ -1210,12 +1221,12 @@ $sub-nav-active-cursor: default;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-// $topbar-bg-color: #333;
-// $topbar-bg: $topbar-bg-color;
+ $topbar-bg-color: $teal;
+ $topbar-bg: $teal;
 
 // Height and margin
-//$topbar-height: 70px;
-// $topbar-margin-bottom: 0;
+   $topbar-height: 70px;
+   $topbar-margin-bottom: 20px;
 
 // Controlling the styles for the title in the top bar
 // $topbar-title-weight: $font-weight-normal;
@@ -1223,19 +1234,19 @@ $sub-nav-active-cursor: default;
 
 // Style the top bar dropdown elements
 // $topbar-dropdown-bg: #333;
-// $topbar-dropdown-link-color: #fff;
+ $topbar-dropdown-link-color: $cream;
 // $topbar-dropdown-link-bg: #333;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
-// $topbar-dropdown-toggle-color: #fff;
+ $topbar-dropdown-toggle-color: $cream;
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // Set the link colors and styles for top-level nav
-// $topbar-link-color: #fff;
-// $topbar-link-color-hover: #fff;
-// $topbar-link-color-active: #fff;
-// $topbar-link-color-active-hover: #fff;
-// $topbar-link-weight: $font-weight-normal;
+ $topbar-link-color: $cream;
+ $topbar-link-color-hover: $cream;
+ $topbar-link-color-active: $cream;
+ $topbar-link-color-active-hover: $cream;
+ $topbar-link-weight: $font-weight-normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
