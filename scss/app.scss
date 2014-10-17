@@ -126,13 +126,13 @@ ul.no-decor{
     font-family:$header-font;
     color:$cream;      
     background: darken($teal,12%);    
-    font-size:.95rem;
+    font-size:1.05rem;
   }
   .dropdown li a:hover, li.has-dropdown a:hover, .dropdown li.title h5 a:hover, .dropdown li.parent-link a:hover{
     background:darken($teal,8%);
   }
-  
 }
+  .dropdown li:last-child > a {margin-bottom:20px;} 
 
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
