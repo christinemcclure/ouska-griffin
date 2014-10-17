@@ -132,6 +132,7 @@ ul.no-decor{
   }
   .dropdown li a:hover, li.has-dropdown a:hover, .dropdown li.title h5 a:hover, .dropdown li.parent-link a:hover{
     background:darken($teal,8%);
+    color:darken($cream,10%);
   }
 }
   .dropdown li:last-child > a {margin-bottom:20px;} 
@@ -153,6 +154,7 @@ ul.no-decor{
         display:block;
         font-size:14px;
       } 
+      a:hover{color:darken($cream,10%);}
     }
    .toggle-topbar.menu-icon {
       top: 25%;
