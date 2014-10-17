@@ -10077,20 +10077,24 @@ ul.no-decor {
   .top-bar-section ul.right li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     background: #185459;
   }
+  /* line 171, ../scss/app.scss */
+  .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+    line-height: 40px;
+  }
 
-  /* line 173, ../scss/app.scss */
+  /* line 177, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 177, ../scss/app.scss */
+  /* line 181, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 185, ../scss/app.scss */
+  /* line 189, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;

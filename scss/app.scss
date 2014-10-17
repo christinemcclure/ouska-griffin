@@ -168,6 +168,10 @@ ul.no-decor{
       background:$teal;
     }
     
+    .dropdown li:not(.has-form):not(.active) > a:not(.button){
+      line-height:40px;
+    }
+    
   }
   
     img.inline-wrap{
