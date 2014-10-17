@@ -147,8 +147,12 @@ ul.no-decor{
 @media only screen and (min-width: 40.063em){
 
   .top-bar {
-    .name p {
-      display:block;
+    .name {
+      h1 {line-height:22px; margin:14px 0 0 0;}
+      p {
+        display:block;
+        font-size:14px;
+      } 
     }
    .toggle-topbar.menu-icon {
       top: 25%;

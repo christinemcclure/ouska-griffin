@@ -10049,28 +10049,34 @@ ul.no-decor {
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 150, ../scss/app.scss */
+  /* line 151, ../scss/app.scss */
+  .top-bar .name h1 {
+    line-height: 22px;
+    margin: 14px 0 0 0;
+  }
+  /* line 152, ../scss/app.scss */
   .top-bar .name p {
     display: block;
+    font-size: 14px;
   }
-  /* line 153, ../scss/app.scss */
+  /* line 157, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 157, ../scss/app.scss */
+  /* line 161, ../scss/app.scss */
   img.inline-wrap {
     display: inline-block !important;
     float: left;
   }
 
-  /* line 161, ../scss/app.scss */
+  /* line 165, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 169, ../scss/app.scss */
+  /* line 173, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
