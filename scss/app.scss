@@ -123,16 +123,19 @@ ul.no-decor{
 }
 .top-bar.expanded, .top-bar.expanded .toggle-topbar a{background:$teal; color:$cream;}
 
-.top-bar-section, ul.right, ul.dropdown{
+.top-bar-section, ul.right{
   li, li a, li:not(.has-form) a:not(.button):hover{
     font-family:$header-font;
     color:$cream;      
-    background: darken($teal,12%);    
+    background: darken($teal,12%);   
     font-size:1.05rem;
   }
-  .dropdown li a:hover, li.has-dropdown a:hover, .dropdown li.title h5 a:hover, .dropdown li.parent-link a:hover{
+  li:not(.has-form) a:not(.button):hover, .dropdown li:not(.has-form):not(.active) > a:not(.button):hover,.dropdown li a:hover, li.has-dropdown a:hover, .dropdown li.title h5 a:hover, .dropdown li.parent-link a:hover{
     background:darken($teal,8%);
     color:darken($cream,10%);
+  }
+  li.has-dropdown:not(.has-form) a:not(.button), li.has-dropdown:not(.has-form) a:not(.button):hover{
+    background:$teal;
   }
 }
   .dropdown li:last-child > a {margin-bottom:20px;} 
@@ -160,6 +163,13 @@ ul.no-decor{
       top: 25%;
     }
   }
+  .top-bar-section {
+     ul.right li, li:not(.has-form) a:not(.button), .dropdown li:not(.has-form):not(.active) > a:not(.button){
+      background:$teal;
+    }
+    
+  }
+  
     img.inline-wrap{
         display: inline-block !important;
         float:left;
