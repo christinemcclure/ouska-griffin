@@ -7,7 +7,7 @@
 <div class="row">
   <div class="large-12 columns"><h1>Where will your feet take you today?</h1></div>
 <div class="large-12 columns">
-<img src="images/home-walking.jpg">
+<img alt="Photograph of silhouetted people wearing business attire walking along a corridor." src="images/home-walking.jpg">
 <hr>
 </div>
 </div>
