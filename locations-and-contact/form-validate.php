@@ -52,7 +52,7 @@ if (isset($_POST['submitted'])) {
 				$_POST = array();
 			
 			} else {
-				$feedback='<p>Please include both your name and contact number.</p>';
+				$feedback='<p>Please include your name and contact information.</p>';
 			}
 			
 		}
