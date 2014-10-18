@@ -106,7 +106,6 @@ ul.no-decor{
     a.location {
       display:none; // don't display for mobile
       color:$cream;
-      padding: 0 23.33333px;
     }
     a.header {
       display:block;
@@ -166,23 +165,28 @@ input.button, input.button:hover, input.button:focus{
   padding: 10px 16px;
 }
 
-@media only screen and (min-width: 24.250em){ // point at which header line wraps
-  .top-bar .name a.header {
-    line-height:40px;
-  }
-}
-
+@media only screen and (min-width: 20.063em){
+  .top-bar {
+    .name {
+      a.header {
+        line-height:20px; 
+        margin:20px 0 0 20px;
+      }
+    }   
+  }  
+}    
 
 @media only screen and (min-width: 40.063em){
 
   .top-bar {
     .name {
-      a.header {line-height:22px; margin:14px 0 0 0;}
+      a.header{width:100%;}
       a.location {
         display:block;
         font-size:14px;
+        margin: 4px 0 0 20px;
       } 
-        a:hover{color:darken($cream,10%);}
+      a:hover{color:darken($cream,10%);}
     }
    .toggle-topbar.menu-icon {
       top: 25%;
@@ -209,6 +213,13 @@ input.button, input.button:hover, input.button:focus{
 
 
 @media only screen and (min-width: 64.063em){
+    .top-bar {
+      .name {
+        a.header {
+          margin:14px 0 0 20px;
+        }
+      }  
+    }
 
     img.inline-wrap-large{
         display: inline-block !important;

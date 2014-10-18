@@ -10007,9 +10007,8 @@ ul.no-decor {
 .top-bar .name a.location {
   display: none;
   color: #fcf5ed;
-  padding: 0 23.33333px;
 }
-/* line 111, ../scss/app.scss */
+/* line 110, ../scss/app.scss */
 .top-bar .name a.header {
   display: block;
   width: 60%;
@@ -10019,117 +10018,123 @@ ul.no-decor {
   color: #fcf5ed;
   margin: 12px 0 0 14px;
 }
-/* line 121, ../scss/app.scss */
+/* line 120, ../scss/app.scss */
 .top-bar .toggle-topbar.menu-icon {
   top: 25%;
 }
 
-/* line 126, ../scss/app.scss */
+/* line 125, ../scss/app.scss */
 .top-bar.expanded, .top-bar.expanded .toggle-topbar {
   border-color: #185459;
   background: #185459;
   color: #fcf5ed;
 }
 
-/* line 131, ../scss/app.scss */
+/* line 130, ../scss/app.scss */
 .top-bar-section li, .top-bar-section li a, .top-bar-section li:not(.has-form) a:not(.button):hover, ul.right li, ul.right li a, ul.right li:not(.has-form) a:not(.button):hover {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fcf5ed;
   background: #0b2729;
   font-size: 1.05rem;
 }
-/* line 137, ../scss/app.scss */
+/* line 136, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button):hover, .top-bar-section .dropdown li a:hover, .top-bar-section li.has-dropdown a:hover, .top-bar-section .dropdown li.title h5 a:hover, .top-bar-section .dropdown li.parent-link a:hover, ul.right li:not(.has-form) a:not(.button):hover, ul.right .dropdown li:not(.has-form):not(.active) > a:not(.button):hover, ul.right .dropdown li a:hover, ul.right li.has-dropdown a:hover, ul.right .dropdown li.title h5 a:hover, ul.right .dropdown li.parent-link a:hover {
   background: #0f3639;
   color: #f5ddc1;
 }
-/* line 141, ../scss/app.scss */
+/* line 140, ../scss/app.scss */
 .top-bar-section li.has-dropdown:not(.has-form) a:not(.button), .top-bar-section li.has-dropdown:not(.has-form) a:not(.button):hover, ul.right li.has-dropdown:not(.has-form) a:not(.button), ul.right li.has-dropdown:not(.has-form) a:not(.button):hover {
   background: #185459;
 }
 
-/* line 145, ../scss/app.scss */
+/* line 144, ../scss/app.scss */
 .dropdown li:last-child > a {
   margin-bottom: 20px;
 }
 
-/* line 148, ../scss/app.scss */
+/* line 147, ../scss/app.scss */
 .location {
   margin-top: 30px;
 }
-/* line 150, ../scss/app.scss */
+/* line 149, ../scss/app.scss */
 .location p {
   line-height: .5rem;
 }
-/* line 153, ../scss/app.scss */
+/* line 152, ../scss/app.scss */
 .location h2 + p {
   margin-top: 20px;
 }
 
-/* line 158, ../scss/app.scss */
+/* line 157, ../scss/app.scss */
 input.h-pot {
   display: none;
 }
 
-/* line 160, ../scss/app.scss */
+/* line 159, ../scss/app.scss */
 input.button {
   margin: 24px 0 0 0;
 }
 
-/* line 163, ../scss/app.scss */
+/* line 162, ../scss/app.scss */
 input.button, input.button:hover, input.button:focus {
   border-color: #185459;
   background: rgba(24, 84, 89, 0.8);
   padding: 10px 16px;
 }
 
-@media only screen and (min-width: 24.25em) {
-  /* line 170, ../scss/app.scss */
+@media only screen and (min-width: 20.063em) {
+  /* line 171, ../scss/app.scss */
   .top-bar .name a.header {
-    line-height: 40px;
+    line-height: 20px;
+    margin: 20px 0 0 20px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 180, ../scss/app.scss */
+  /* line 183, ../scss/app.scss */
   .top-bar .name a.header {
-    line-height: 22px;
-    margin: 14px 0 0 0;
+    width: 100%;
   }
-  /* line 181, ../scss/app.scss */
+  /* line 184, ../scss/app.scss */
   .top-bar .name a.location {
     display: block;
     font-size: 14px;
+    margin: 4px 0 0 20px;
   }
-  /* line 185, ../scss/app.scss */
+  /* line 189, ../scss/app.scss */
   .top-bar .name a:hover {
     color: #f5ddc1;
   }
-  /* line 187, ../scss/app.scss */
+  /* line 191, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 192, ../scss/app.scss */
+  /* line 196, ../scss/app.scss */
   .top-bar-section ul.right li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     background: #185459;
   }
-  /* line 196, ../scss/app.scss */
+  /* line 200, ../scss/app.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     line-height: 40px;
   }
 
-  /* line 202, ../scss/app.scss */
+  /* line 206, ../scss/app.scss */
   img.inline-wrap {
     float: left;
   }
 
-  /* line 205, ../scss/app.scss */
+  /* line 209, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 213, ../scss/app.scss */
+  /* line 218, ../scss/app.scss */
+  .top-bar .name a.header {
+    margin: 14px 0 0 20px;
+  }
+
+  /* line 224, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
