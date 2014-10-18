@@ -60,7 +60,7 @@
       <div class="large-8 columns">
          <label>Message</label>
       <textarea name="message" id="message"></textarea>
-      <input class="h-pot" name="botTest" type="text" id="nameBotTest" placeholder="Bot test for spam. If you're a human, don't enter anything here" />
+      <input class="h-pot" name="botTest" type="text" id="nameBotTest" placeholder="Bot test for spam. If you're a human, don't enter anything here." />
       </div>
       <div class="large-4 columns">
         <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
