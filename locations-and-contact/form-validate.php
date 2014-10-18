@@ -37,13 +37,16 @@ if (isset($_POST['submitted'])) {
 			if   (!empty($scrubbed['name'])) {
 			
 				// Create the body:
-				$body = "Name: {$scrubbed['name']} \n E-mail: {$scrubbed['email']}
-				\n Location: {$scrubbed['location']} \n Message: \n {$scrubbed['message']}";
+				$body = "Name: {$scrubbed['name']} \n"
+        . "Contact: {$scrubbed['email']}\n"
+        . "Location: {$scrubbed['location']} \n"
+        . "Message: \n"
+        . "{$scrubbed['message']}";
 				$body = wordwrap($body, 70);
 			
 
         // Send the email:
-				mail($contact_email, "Mail from ChristineMcClure.com", $body, "From: camcclure@gmail.com");
+				mail($contact_email, "Website contact email", $body);
 
         $cssclass = "hide";
         $feedback="<p class=\"clear\">Thank you. We will be in contact soon.</p>";
