@@ -1,9 +1,9 @@
 <?php // this script creates the  email form
 
 $contact_email="camcclure@gmail.com";
-$feedback= "<p>Thank you for contacting us. We will get back to you shortly.</p>";
+$feedback= "<p>I look forward to discussing any opportunities with you; simply fill out the form.</p>
+  <p>Looking for your photos? You can order <a href=\"http://christinemcclure.zenfolio.com\">prints and merchandise</a> online.</p>";
 $cssclass = "showForm";
-
 
 // Check for form submission:
 if (isset($_POST['submitted'])) {
@@ -30,20 +30,20 @@ if (isset($_POST['submitted'])) {
 	$scrubbed = array_map('spam_scrubber', $_POST);
 
 		if($nameBotTest) { // get rid of bots
-			echo '<p>Failed bot test. Message not sent.';
+			echo '<p>Thanks but no thanks, bot.';
 		}
 		
 		else {
 			// Minimal form validation:
-			if  (!empty($scrubbed['name'])) && (!empty($scrubbed['contactNum'])) ) {
+			if  (  (!empty($scrubbed['name'])) && (!empty($scrubbed['email'])) ) {
 			
 				// Create the body:
-				$body = "Name: {$scrubbed['name']} \n E-mail: {$scrubbed['contactNum']}
-				\n Preferred Location: {$scrubbed['location']} \n {$scrubbed['message']}\n";
+				$body = "Name: {$scrubbed['name']} \n E-mail: {$scrubbed['email']}
+				\n Phone: {$scrubbed['phone']} \n {$scrubbed['message']}";
 				$body = wordwrap($body, 70);
 			
 				// Send the email:
-				mail($contact_email, "Mail from OuskaGriffinPodiatrist.com", $body, "From: {$scrubbed['email']}");
+				mail($contact_email, "Mail from ChristineMcClure.com", $body, "From: {$scrubbed['email']}");
 		
 			$cssclass = "hide";
 			$feedback= "<p class=\"clear\">Thank you for your message; I'll be in touch soon.</p> <p>Enjoy your day.</p>";
@@ -53,7 +53,7 @@ if (isset($_POST['submitted'])) {
 				$_POST = array();
 			
 			} else {
-				echo '<p>Please include your name and contact information.</p>';
+				echo '<p>Please include both your name and e-mail address.</p>';
 			}
 			
 		}
