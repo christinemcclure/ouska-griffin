@@ -10,7 +10,7 @@
   
 <div class="row">
   <div class="large-12 columns">
-    <img src="../images/diabetic-foot-exam.jpg" class="inline-wrap-right" alt="">
+    <img src="../images/diabetic-foot-exam.jpg" class="inline-wrap-right" alt="Close-up photograph of a medical practioner  using a small device to test for nerve insensitivity on the bottom of a patient's foot.">
     <p>Dr. Ouska-Griffin has extensive training in caring for diabetic feet. We provide routine diabetic foot care of painful foot corns and callouses, treat ulcers, infections, and prescribe diabetic shoes with cushioned insoles. </p>
     <p>Diabetic foot diagnoses by Dr. Ouska-Griffin includes:</p>
     <ul class="indented">
