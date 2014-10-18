@@ -103,20 +103,19 @@ ul.no-decor{
 /* header */
 .top-bar {
   .name{
-    p {
+    a.location {
       display:none; // don't display for mobile
-      font-weight: normal;
-      a {
-        color:$cream;
-        padding: 0 23.33333px;
-      }
+      color:$cream;
+      padding: 0 23.33333px;
     }
-    p.header {
-      display:inline-block;
+    a.header {
+      display:block;
+      width:60%;
       font-family: $header-font;
       font-size:18px;
       line-height: 20px;
-      margin: 18px 0 0 0;
+      color:$cream;
+      margin: 12px 0 0 14px;
     }
   }
   .toggle-topbar.menu-icon {
@@ -168,7 +167,7 @@ input.button, input.button:hover, input.button:focus{
 }
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
-  .top-bar .name p.header {
+  .top-bar .name a.header {
     line-height:40px;
   }
 }
@@ -178,12 +177,12 @@ input.button, input.button:hover, input.button:focus{
 
   .top-bar {
     .name {
-     p.header {line-height:22px; margin:14px 0 0 0;}
-      p {
+      a.header {line-height:22px; margin:14px 0 0 0;}
+      a.location {
         display:block;
         font-size:14px;
       } 
-      a:hover{color:darken($cream,10%);}
+        a:hover{color:darken($cream,10%);}
     }
    .toggle-topbar.menu-icon {
       top: 25%;
