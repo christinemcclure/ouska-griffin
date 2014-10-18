@@ -140,6 +140,17 @@ ul.no-decor{
 }
   .dropdown li:last-child > a {margin-bottom:20px;} 
 
+  // locations page
+  .location {
+    margin-top:30px;
+    p{
+      line-height:.5rem;
+    }
+    h2 + p {
+      margin-top:20px;
+    }
+  }
+  
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
   .top-bar .name h1 {
