@@ -122,7 +122,7 @@ ul.no-decor{
   }
   
 }
-.top-bar.expanded, .top-bar.expanded .toggle-topbar a, .button, .button:hover, .button:focus{
+.top-bar.expanded, .top-bar.expanded .toggle-topbar {
   border-color: $teal; background:$teal; color:$cream;
 }
 
@@ -159,7 +159,10 @@ ul.no-decor{
 .send-btn{
   padding:22px 0 0 0;
 }
-  
+.button, .button:hover, .button:focus{
+  border-color:$teal;
+  background:$transpTeal;
+}
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
   .top-bar .name h1 {
