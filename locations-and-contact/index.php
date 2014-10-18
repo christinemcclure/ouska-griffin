@@ -48,12 +48,12 @@
         </div>
         <div class="large-4 columns">
           <label>Email/Phone:</label>
-          <input type="email" name="email" id="email" required/>
+          <input type="text" name="email" id="email" required/>
         </div>
         <div class="large-4 columns">
           <label>Preferred location:</label>
-            <input type="radio" name="location" value="chicago" id="location"><label for="chicago">Chicago</label>
-            <input type="radio" name="location" value="melrosePark" id="location"><label for="melrosePark">Melrose Park</label>
+            <input type="radio" name="location" value="Chicago" id="location"><label for="chicago">Chicago</label>
+            <input type="radio" name="location" value="Melrose Park" id="location"><label for="melrosePark">Melrose Park</label>
         </div>
     </div>  
     <div class="row">  
