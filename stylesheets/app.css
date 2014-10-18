@@ -10076,58 +10076,59 @@ ul.no-decor {
 }
 
 /* line 161, ../scss/app.scss */
-.button, .button:hover, .button:focus {
+input.button, input.button:hover, input.button:focus {
   border-color: #185459;
   background: rgba(24, 84, 89, 0.8);
+  padding: 10px 16px;
 }
 
 @media only screen and (min-width: 24.25em) {
-  /* line 167, ../scss/app.scss */
+  /* line 168, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 40px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 177, ../scss/app.scss */
+  /* line 178, ../scss/app.scss */
   .top-bar .name h1 {
     line-height: 22px;
     margin: 14px 0 0 0;
   }
-  /* line 178, ../scss/app.scss */
+  /* line 179, ../scss/app.scss */
   .top-bar .name p {
     display: block;
     font-size: 14px;
   }
-  /* line 182, ../scss/app.scss */
+  /* line 183, ../scss/app.scss */
   .top-bar .name a:hover {
     color: #f5ddc1;
   }
-  /* line 184, ../scss/app.scss */
+  /* line 185, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 189, ../scss/app.scss */
+  /* line 190, ../scss/app.scss */
   .top-bar-section ul.right li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     background: #185459;
   }
-  /* line 193, ../scss/app.scss */
+  /* line 194, ../scss/app.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     line-height: 40px;
   }
 
-  /* line 199, ../scss/app.scss */
+  /* line 200, ../scss/app.scss */
   img.inline-wrap {
     float: left;
   }
 
-  /* line 202, ../scss/app.scss */
+  /* line 203, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 210, ../scss/app.scss */
+  /* line 211, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
