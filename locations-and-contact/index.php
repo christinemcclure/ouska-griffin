@@ -33,7 +33,7 @@
   <div class="row">
     <div class="large-4 columns">
          <label>Name:
-          <input type="text" id="name2"/>
+          <input type="text" id="name"/>
         </label>
     </div>
       <div class="large-4 columns">
@@ -44,29 +44,34 @@
     
       <div class="large-4 columns">  
         <label>Preferred location:</label>
-        <input type="radio" name="loc" value="Chicago" id="chicago"><label for="chicago">Chicago</label>
-        <input type="radio" name="loc" value="Melrose Park" id="melrosePark"><label for="melrosePark">Melrose Park</label>
+        <input type="radio" name="location" value="Chicago" id="chicago"><label for="chicago">Chicago</label>
+        <input type="radio" name="location" value="Melrose Park" id="melrosePark"><label for="melrosePark">Melrose Park</label>
       </div>    
   </div>  
   <div class="row">  
     <div class="large-8 columns">
       <label>Message
-        <textarea id="msg"></textarea>
+        <textarea id="message"></textarea>
       </label>
     </div>  
       <div class="large-4 columns">
         <div class="small-4 columns send-btn">
-          <a href="#" class="button postfix">Send</a>
+          <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
           </div>
            <div class="small-8 columns">
              <div class="h-pot">
               <label>This is a test for spam. If you are a human, do not fill out this field. 
-              <input type="text" id="name"/>
+              <input type="text" id="nameBotTest"/>
               </label>
              </div>  
           </div>
       </div>
     </div>  
+    <div class="row">
+      <div class="large-12 columns contactMessage">
+        <?php echo $feedback; ?>  
+      </div>
+    </div>
   </div>  
 </form>  
 <?php include("../includes/html-bottom.html"); ?>  
