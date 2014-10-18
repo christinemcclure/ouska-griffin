@@ -24,5 +24,49 @@
     <a alt="Melrose Park office map location" href="https://maps.google.com/maps?q=T+Ouska-Griffin,+DPM,+Superior+Street+%23401,+Melrose+Park,+IL&hl=en&ll=41.893141,-87.847795&spn=0.009264,0.023754&sll=41.895888,-87.74128&sspn=0.148222,0.380058&oq=T+Ouska-Griffin,+DPM+melrose+park,+il&t=m&z=16&iwloc=A"><img src="../images/location-melrose.png" alt="Image of Google map location of the Melrose Park office."></a>
   </div>   
 </div>    
+  
+  <div class="row">
+    <div class="large-12 columns"><h2>Contact us</h2></div>
+  </div>  
+  
+  <form>
+  <div class="row">
+    <div class="large-4 columns">
+         <label>Name:
+          <input type="text" id="name2"/>
+        </label>
+    </div>
+      <div class="large-4 columns">
+         <label>Phone/email:
+          <input type="text" id="contactNum"/>
+        </label>
+      </div>
     
+      <div class="large-4 columns">  
+        <label>Preferred location:</label>
+        <input type="radio" name="loc" value="Chicago" id="chicago"><label for="chicago">Chicago</label>
+        <input type="radio" name="loc" value="Melrose Park" id="melrosePark"><label for="melrosePark">Melrose Park</label>
+      </div>    
+  </div>  
+  <div class="row">  
+    <div class="large-8 columns">
+      <label>Message
+        <textarea id="msg"></textarea>
+      </label>
+    </div>  
+      <div class="large-4 columns">
+        <div class="small-4 columns send-btn">
+          <a href="#" class="button postfix">Send</a>
+          </div>
+           <div class="small-8 columns">
+             <div class="h-pot">
+              <label>This is a test for spam. If you are a human, do not fill out this field. 
+              <input type="text" id="name"/>
+              </label>
+             </div>  
+          </div>
+      </div>
+    </div>  
+  </div>  
+</form>  
 <?php include("../includes/html-bottom.html"); ?>  
