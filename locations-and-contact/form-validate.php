@@ -1,8 +1,7 @@
 <?php // this script creates the  email form
 
 $contact_email="camcclure@gmail.com";
-$feedback= "<p>I look forward to discussing any opportunities with you; simply fill out the form.</p>
-  <p>Looking for your photos? You can order <a href=\"http://christinemcclure.zenfolio.com\">prints and merchandise</a> online.</p>";
+$feedback= "";
 $cssclass = "showForm";
 
 // Check for form submission:
@@ -46,14 +45,14 @@ if (isset($_POST['submitted'])) {
 				mail($contact_email, "Mail from ChristineMcClure.com", $body, "From: {$scrubbed['email']}");
 		
 			$cssclass = "hide";
-			$feedback= "<p class=\"clear\">Thank you for your message; I'll be in touch soon.</p> <p>Enjoy your day.</p>";
+			$feedback= "<p class=\"clear\">Thank you. We will be in contact soon.</p>";
 				
 				
 				// Clear $_POST (so that the form's not sticky):
 				$_POST = array();
 			
 			} else {
-				echo '<p>Please include both your name and e-mail address.</p>';
+				$feedback='<p>Please include both your name and contact number.</p>';
 			}
 			
 		}

@@ -30,67 +30,57 @@
     <div class="large-12 columns"><h2>Contact us</h2></div>
   </div>  
   
-  <div class="row">
-    <div class="large-12 columns">
-          <div class="contactMessage">
-			<?php echo $feedback; ?>  
-     </div>
-      <div id="showContactForm" class="<?php echo $cssclass; ?>">  <!-- showForm to start -->	
-        <form method="post" action="/locations-and-contact/" id="contactForm">
-          <input type="text" name="name" id="name" placeholder="Name"/>
-          <input type="email" name="email" id="email" placeholder="E-mail address" required/>
-          <textarea name="message" id="message"  placeholder="Your message here" required></textarea>
-					<input name="nameBotTest" type="text" id="nameBotTest" placeholder="Bot test: if you're a human, don't enter anything here" class="honeypot" />
-          <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
-          <input type="hidden" name="submitted" value="TRUE" />
-        </form>
-      </div>
-    </div>
-  </div>
-  
-  <form>
-  <div class="row">
+  <div id="showContactForm" class="row <?php echo $cssclass; ?>">
+  <form method="post" action="/locations-and-contact/" id="contactForm">
+  <div class="row">  
     <div class="large-4 columns">
-         <label>Name:
-          <input type="text" id="name"/>
-        </label>
+      <label>Name:
+        <input type="text" id="name"/>
+      </label>
     </div>
-      <div class="large-4 columns">
-         <label>Phone/email:
-          <input type="text" id="contactNum"/>
-        </label>
-      </div>
-    
-      <div class="large-4 columns">  
-        <label>Preferred location:</label>
+    <div class="large-4 columns">
+      <label>Phone/email:
+        <input type="text" id="email"/>
+     </label>
+    </div>
+    <div class="large-4 columns">  
+      <label>Preferred location:</label>
         <input type="radio" name="location" value="Chicago" id="chicago"><label for="chicago">Chicago</label>
         <input type="radio" name="location" value="Melrose Park" id="melrosePark"><label for="melrosePark">Melrose Park</label>
-      </div>    
-  </div>  
-  <div class="row">  
+    </div>   
+  </div>
+
+  <div class="row">
     <div class="large-8 columns">
       <label>Message
         <textarea id="message"></textarea>
       </label>
-    </div>  
-      <div class="large-4 columns">
-        <div class="small-4 columns send-btn">
-          <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
-          </div>
-           <div class="small-8 columns">
-             <div class="h-pot">
-              <label>This is a test for spam. If you are a human, do not fill out this field. 
-              <input type="text" id="nameBotTest"/>
-              </label>
-             </div>  
-          </div>
-      </div>
-    </div>  
-    <div class="row">
-      <div class="large-12 columns hide">
-        <?php echo $feedback; ?> 
-      </div>
+    </div>    
+
+    <div class="large-4 columns">
+      <div class="small-4 columns send-btn">
+        <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
+        <input type="hidden" name="submitted" value="TRUE" />
+        </div>
+         <div class="small-8 columns">
+           <div class="h-pot">
+            <label>This is a test for spam. If you are a human, do not fill out this field. 
+            <input type="text" id="nameBotTest"/>
+            </label>
+           </div>  
+        </div>
     </div>
   </div>  
-</form>  
+  </form>
+  </div>
+
+  
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="contactMessage">
+        <?php echo $feedback; ?>  
+      </div>          
+     </div>
+  </div>
+
 <?php include("../includes/html-bottom.html"); ?>  
