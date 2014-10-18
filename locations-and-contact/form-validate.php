@@ -34,11 +34,11 @@ if (isset($_POST['submitted'])) {
 		else {
 
 			// Minimal form validation:
-			if  (  (!empty($scrubbed['name'])) && (!empty($scrubbed['email'])) ) {
+			if   (!empty($scrubbed['name'])) {
 			
 				// Create the body:
 				$body = "Name: {$scrubbed['name']} \n E-mail: {$scrubbed['email']}
-				\n {$scrubbed['message']}";
+				\n Location: {$scrubbed['location']} \n Message: \n {$scrubbed['message']}";
 				$body = wordwrap($body, 70);
 			
 

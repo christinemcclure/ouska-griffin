@@ -44,11 +44,11 @@
       <form method="post" action="/locations-and-contact/" id="contactForm">
         <div class="large-4 columns">
           <label>Name:</label>
-          <input type="text" name="name" id="name"/>
+          <input type="text" name="name" id="name" required/>
         </div>
         <div class="large-4 columns">
           <label>Email/Phone:</label>
-          <input type="email" name="email" id="email" placeholder="E-mail address" required/>
+          <input type="email" name="email" id="email" required/>
         </div>
         <div class="large-4 columns">
           <label>Preferred location:</label>
