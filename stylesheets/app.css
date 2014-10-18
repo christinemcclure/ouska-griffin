@@ -9928,6 +9928,11 @@ th.hide-for-touch {
   }
 }
 /* general */
+/* line 45, ../scss/app.scss */
+footer {
+  height: 60px;
+}
+
 /* line 47, ../scss/app.scss */
 h1 {
   margin: 10px 0 20px 0;
