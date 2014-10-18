@@ -38,18 +38,32 @@
      </div>
   </div>
   
-  <div id="showContactForm" class="row large-12 columns <?php echo $cssclass; ?>">
-
-  <form method="post" action="/locations-and-contact/" id="contactForm">
-      <input type="text" name="name" id="name" placeholder="Name"/>
-      <input type="email" name="email" id="email" placeholder="E-mail address" required/>
+  <div id="showContactForm" class="row <?php echo $cssclass; ?>">
+    <div class="large-12 columns">
+    <div class="row">  
+      <form method="post" action="/locations-and-contact/" id="contactForm">
+        <div class="large-4 columns">
+          <input type="text" name="name" id="name" placeholder="Name"/>
+        </div>
+        <div class="large-4 columns">
+          <input type="email" name="email" id="email" placeholder="E-mail address" required/>
+        </div>
+        <div class="large-4 columns">
+          radio buttons
+        </div>
+    </div>  
+    <div class="row">  
+      <div class="large-8 columns">
       <textarea name="message" id="message"  placeholder="Your message here" required></textarea>
-      <input name="nameBotTest" type="text" id="nameBotTest" placeholder="Bot test: if you're a human, don't enter anything here" class="h-pot" />
-      <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
-      <input type="hidden" name="submitted" value="TRUE" />
+      <input name="nameBotTest" type="text" id="nameBotTest" placeholder="Bot test: if you're a human, don't enter anything here" class="hide" />
+      </div>
+      <div class="large-4 columns">
+        <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
+        <input type="hidden" name="submitted" value="TRUE" />
+      </div>
+    </div>  
   </form>
-
-  
+  </div>    
   </div>
 
 
