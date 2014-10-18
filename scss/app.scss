@@ -44,7 +44,7 @@
 /* general */
 footer{height:60px}
 
-h1 {
+h1{
   margin: 10px 0 20px 0;
   font-size: 2.125rem;
 }
@@ -103,10 +103,6 @@ ul.no-decor{
 /* header */
 .top-bar {
   .name{
-    h1 {
-      line-height: 20px;
-      margin: 18px 0 0 0;
-    }
     p {
       display:none; // don't display for mobile
       font-weight: normal;
@@ -114,6 +110,13 @@ ul.no-decor{
         color:$cream;
         padding: 0 23.33333px;
       }
+    }
+    p.header {
+      display:inline-block;
+      font-family: $header-font;
+      font-size:18px;
+      line-height: 20px;
+      margin: 18px 0 0 0;
     }
   }
   .toggle-topbar.menu-icon {
@@ -165,7 +168,7 @@ input.button, input.button:hover, input.button:focus{
 }
 
 @media only screen and (min-width: 24.250em){ // point at which header line wraps
-  .top-bar .name h1 {
+  .top-bar .name p.header {
     line-height:40px;
   }
 }
@@ -175,7 +178,7 @@ input.button, input.button:hover, input.button:focus{
 
   .top-bar {
     .name {
-      h1 {line-height:22px; margin:14px 0 0 0;}
+     p.header {line-height:22px; margin:14px 0 0 0;}
       p {
         display:block;
         font-size:14px;
