@@ -122,7 +122,9 @@ ul.no-decor{
   }
   
 }
-.top-bar.expanded, .top-bar.expanded .toggle-topbar a{background:$teal; color:$cream;}
+.top-bar.expanded, .top-bar.expanded .toggle-topbar a, .button, .button:hover, .button:focus{
+  border-color: $teal; background:$teal; color:$cream;
+}
 
 .top-bar-section, ul.right{
   li, li a, li:not(.has-form) a:not(.button):hover{
