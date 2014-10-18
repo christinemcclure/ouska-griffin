@@ -27,31 +27,33 @@ if (isset($_POST['submitted'])) {
 	
 	// Clean the form data:
 	$scrubbed = array_map('spam_scrubber', $_POST);
-
+		      echo $scrubbed['name'];
 		if($nameBotTest) { // get rid of bots
-			echo '<p>Thanks but no thanks, bot.';
+			echo '<p>Failed bot test. Mail not sent.</p>';
 		}
-		
+		 
 		else {
+
 			// Minimal form validation:
 			if  (  (!empty($scrubbed['name'])) && (!empty($scrubbed['email'])) ) {
 			
 				// Create the body:
 				$body = "Name: {$scrubbed['name']} \n E-mail: {$scrubbed['email']}
-				\n Phone: {$scrubbed['phone']} \n {$scrubbed['message']}";
+				\n {$scrubbed['message']}";
 				$body = wordwrap($body, 70);
 			
-				// Send the email:
-				mail($contact_email, "Mail from ChristineMcClure.com", $body, "From: {$scrubbed['email']}");
-		
-			$cssclass = "hide";
-			$feedback= "<p class=\"clear\">Thank you. We will be in contact soon.</p>";
-				
+
+        // Send the email:
+				mail($contact_email, "Mail from ChristineMcClure.com", $body, "From: camcclure@gmail.com");
+
+        $cssclass = "hide";
+        $feedback="<p class=\"clear\">Thank you. We will be in contact soon.</p>";
 				
 				// Clear $_POST (so that the form's not sticky):
 				$_POST = array();
 			
-			} else {
+			} 
+      else {
 				$feedback='<p>Please include your name and contact information.</p>';
 			}
 			
