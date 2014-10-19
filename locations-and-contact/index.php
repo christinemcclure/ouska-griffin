@@ -43,24 +43,25 @@
     <div class="row">  
       <form method="post" action="/locations-and-contact/" id="contactForm">
         <div class="large-4 columns">
-          <label>Name:</label>
+          <label for="name">Name:</label>
           <input type="text" name="name" id="name" required/>
         </div>
         <div class="large-4 columns">
-          <label>Email/Phone:</label>
-          <input type="text" name="email" id="email" required/>
+          <label for="contactNum">Email/Phone:</label>
+          <input type="text" name="contactNum" id="contactNum" required/>
         </div>
         <div class="large-4 columns">
-          <label>Preferred location:</label>
+          <label for="location">Preferred location:</label>
             <input type="radio" name="location" value="Chicago" id="location"><label for="chicago">Chicago</label>
             <input type="radio" name="location" value="Melrose Park" id="location"><label for="melrosePark">Melrose Park</label>
         </div>
     </div>  
     <div class="row">  
       <div class="large-8 columns">
-         <label>Message</label>
+      <label for="message">Message</label>
       <textarea name="message" id="message"></textarea>
-      <input class="h-pot" name="botTest" type="text" id="nameBotTest" placeholder="Bot test for spam. If you're a human, don't enter anything here." />
+      <label for="nameBotTest">Bot test for spam. If you're a human, don't enter anything here.</label>
+      <input class="h-pot" name="botTest" type="text" id="nameBotTest" />
       </div>
       <div class="large-4 columns">
         <input class="button" type="submit" name="submit" value="Send" id="submitButton" />

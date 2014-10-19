@@ -27,8 +27,8 @@ if (isset($_POST['submitted'])) {
 	
 	// Clean the form data:
 	$scrubbed = array_map('spam_scrubber', $_POST);
-		if(!empty($scrubbed['nameBotTest'])) { // get rid of bots
-			$feeback='<p>Failed bot test. Mail not sent.</p>';
+		if($scrubbed['nameBotTest']=="") { // get rid of bots
+			$feedback='<p>Failed bot test. Mail not sent.</p>';
 		}
 		 
 		else {
@@ -38,7 +38,7 @@ if (isset($_POST['submitted'])) {
 			
 				// Create the body:
 				$body = "Name: {$scrubbed['name']} \n"
-        . "Contact: {$scrubbed['email']}\n"
+        . "Contact Number: {$scrubbed['contactNum']}\n"
         . "Location: {$scrubbed['location']} \n"
         . "Message: \n"
         . "{$scrubbed['message']}";
