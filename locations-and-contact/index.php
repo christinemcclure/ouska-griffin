@@ -61,7 +61,7 @@
       <label for="message">Message</label>
       <textarea name="message" id="message"></textarea>
       <label for="nameBotTest">Bot test for spam. If you're a human, don't enter anything here.</label>
-      <input class="h-pot" name="botTest" type="text" id="nameBotTest" />
+      <input class="h-pot" name="nameBotTest" type="text" id="nameBotTest" />
       </div>
       <div class="large-4 columns">
         <input class="button" type="submit" name="submit" value="Send" id="submitButton" />
