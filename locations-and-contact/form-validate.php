@@ -1,6 +1,6 @@
 <?php // this script creates the  email form
 
-$contact_email="camcclure@gmail.com";
+$contact_email="docs1st@gmail.com";
 $feedback= "";
 $cssclass = "showForm";
 
