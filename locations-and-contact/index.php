@@ -60,7 +60,7 @@
       <div class="large-8 columns">
       <label for="message">Message</label>
       <textarea name="message" id="message"></textarea>
-      <label for="nameBotTest">Bot test for spam. If you're a human, don't enter anything here.</label>
+      <label class="h-pot" for="nameBotTest">Bot test for spam. If you're a human, don't enter anything here.</label>
       <input class="h-pot" name="nameBotTest" type="text" id="nameBotTest" />
       </div>
       <div class="large-4 columns">
