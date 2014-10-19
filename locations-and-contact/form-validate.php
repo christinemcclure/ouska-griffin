@@ -27,7 +27,8 @@ if (isset($_POST['submitted'])) {
 	
 	// Clean the form data:
 	$scrubbed = array_map('spam_scrubber', $_POST);
-		if($scrubbed['nameBotTest']=="") { // get rid of bots
+  
+		if($_POST['nameBotTest']) { // get rid of bots
 			$feedback='<p>Failed bot test. Mail not sent.</p>';
 		}
 		 
