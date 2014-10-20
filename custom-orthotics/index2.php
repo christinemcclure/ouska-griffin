@@ -10,7 +10,7 @@
   
   <div class="row">
   <div class="large-4 columns">
-    <img src="../images/orthotics-custom.jpg" alt="">
+    <img src="../images/orthotics-custom.jpg" alt="Photograph of a hand fitting a custom-made orthotic insole to a person's foot.">
   </div> 
     <div class="large-8 columns">
     <p>There are three major elements to podiatric prescribed custom orthotics:</p>
