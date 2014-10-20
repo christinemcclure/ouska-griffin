@@ -10,7 +10,7 @@
   
 <div class="row">
   <div class="large-12 columns">
-    <p>There are three major elements to podiatric prescribed custom orthotics</p>
+    <p>There are three major elements to podiatric prescribed custom orthotics:</p>
   </div>    
 </div>  
   <div class="row">
