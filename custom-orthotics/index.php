@@ -8,16 +8,18 @@
   <div class="large-12 columns"><h1>Custom orthotics</h1></div>
  </div>
   
-<div class="row">
-  <div class="large-12 columns">
-    <p>There are three major elements to podiatric prescribed custom orthotics:</p>
-  </div>    
-</div>  
   <div class="row">
-  <div class="large-12 columns">
-    <img class="inline-wrap" src="../images/orthotics-custom.jpg" alt="Photograph of a hand fitting a custom-made orthotic insole to a person's foot.">
-    <img class="inline-wrap-right" src="../images/orthotics-flowchart.png" alt="A vector image of three circles shown in a row, slightly overlapping. The first circle has the text: 'Designed by a podiatrist through a diagnosis of your specific biomechanics;' the second circle says: 'Type, materials, and special enhancements guided by a discussion between you and your podiatrist;' the third is: 'Fabricated by a specialized lab from a detailed prescription, often enhanced by direct communication.'">
-  </div>    
+  <div class="large-4 columns">
+    <img src="../images/orthotics-custom.jpg" alt="Photograph of a hand fitting a custom-made orthotic insole to a person's foot.">
+  </div> 
+    <div class="large-8 columns">
+    <p>There are three major elements to podiatric prescribed custom orthotics:</p>
+    <ol class="indent-left">
+      <li>Designed by a podiatrist through a diagnosis of your specific biomechanics</li>
+      <li>Type, materials, and special enhancements guided by a discussion between you and your podiatrist</li>
+      <li>Fabricated by a specialized lab from a detailed prescription, often enhanced by direct communication</li>
+    </ol>      
+    </div>
 </div>  
 
 <div class="row">
