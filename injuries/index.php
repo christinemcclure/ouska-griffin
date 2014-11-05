@@ -10,7 +10,7 @@
   
 <div class="row">
   <div class="large-12 columns">
-    <img class="inline-wrap-right" src="../images/injuries-red.jpg" alt="Photography of the bottom of a foot, hand grasping. Red circles radiate around it, indicating pain.">
+    <img class="inline-wrap-right" src="../images/injuries-red.jpg" alt="">
         <p>
 Painful injuries will ruin any day in our busy lives. Stubbing or breaking a toe can slow us down to a crawl along with sprains and acute heel pain.  Even an insect bite or a longer than normal walk-or wearing that pair of flats can result in a painful foot. Most foot injuries are quick to diagnose and are resolved by a straight-forward treatment plan by Dr. Ouska-Griffin.
         </p>

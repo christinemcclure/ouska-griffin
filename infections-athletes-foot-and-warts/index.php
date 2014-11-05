@@ -11,7 +11,7 @@
       <h2>Infections</h2>
   </div>    
   <div class="large-9 columns">
-    <img src="../images/infections-feet.jpg" class="inline-wrap-right" alt="Photograph of a man's feet, resting on top of (not inside) blacktennis shoes. The toes are curled under and give the picture the idea that the person is embarrassed.">
+    <img src="../images/infections-feet.jpg" class="inline-wrap-right" alt="">
      <p>
 There are many different types of foot infections, some simple, and others complex. They are categorized into 3 groups: soft tissue, bone, and diabetic foot infections. Signs of infection may include increased pain, swelling, redness, or warmth around the affected area red streaks extending from the affected area, pus draining from the area. Many events can be responsible for soft tissue infections. A description of soft tissue infections includes simple, moderate, and severe infections, Bone can be involved when an infectious process is present in the foot because of the close proximity to the skin and lack of a thick, soft tissue, protective layer throughout most parts of the foot. People with diabetes who get an infection are at high risk for complications such as ulcerations in the feet, which often lead to serious infection of the soft tissue and bones.       
      </p>

@@ -9,7 +9,7 @@
   
 <div class="row">
 <div class="large-12 columns">
-<img class="inline-wrap-large" src="../images/senior-nurse-and-woman.jpg" alt="Photograph of a senior woman sitting in a chair, smiling, while a female medical practioner writes notes on a chart.">
+<img class="inline-wrap-large" src="../images/senior-nurse-and-woman.jpg" alt="">
   
   <p>
 As we age, our feet typically change in structure and even size. Decades of standing changes our feet. Much of the natural cushion of padding under your heel and the ball is lost. The arches get flatter and less flexible, ankles and foot joints become stiffer. The whole foot gets wider and longer. Our feet may be more susceptible to sudden health threats caused by something as simple was wearing high heels on a night out, wearing that pair of men’s dress shoes not worn since retirement, or running that extra mile in our daily exercise routine. Even a pebble in a shoe can cause the foot to be damaged quickly. Infections and fungus can show up one morning and demand quick attention. Good home care, wearing good fitting, breathable shoes and thin, padded socks go a long way toward keeping healthy feet. Wearing slippers in the house, even when getting up at night, is a great way to protect our feet from cold floors, stubbing or damage when we step on that left out grandchild’s toy. Keeping feet up when sitting is a good idea as well. Most acute events can be effectively treated by Dr. Ouska-Griffin in office. Good foot care and regular foot checks are an important part of your health care. Your doctor should look at your feet often. If you have foot problems, don't be afraid to talk to your doctor.   
