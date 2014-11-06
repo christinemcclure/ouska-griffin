@@ -4,7 +4,7 @@
 
 <?php include("../includes/header-and-nav.html"); ?>    
  
- <div class="row">
+ <div id="maincontent" class="row">
   <div class="large-12 columns"><h1>Locations</h1></div>
  </div>
   

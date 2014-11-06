@@ -3,7 +3,7 @@
 <body>
 
 <?php include("../includes/header-and-nav.html"); ?>    
- <div class="row">
+ <div id="maincontent" class="row">
   <div class="large-12 columns"><h1>Infections, athlete's foot, and warts</h1></div>
  </div>
 <div class="row">

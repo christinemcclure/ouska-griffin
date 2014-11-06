@@ -1,6 +1,23 @@
 @import "settings";
 @import "foundation";
 
+a.skip // skip to main content for screen readers. hide for sighted readers. from webaim.org
+{ 
+position:absolute; 
+left:-10000px; 
+top:auto; 
+width:1px; 
+height:1px; 
+overflow:hidden;
+} 
+ 
+a.skip:focus 
+{ 
+position:static; 
+width:auto; 
+height:auto; 
+}
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",

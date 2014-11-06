@@ -4,7 +4,7 @@
 
 <?php include("includes/header-and-nav.html"); ?>    
  
-<div class="row">
+<div id="maincontent" class="row">
   <div class="large-12 columns"><h1>Where will your feet take you today?</h1></div>
 <div class="large-12 columns">
 <img alt="" src="images/home-walking.jpg">
