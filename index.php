@@ -25,7 +25,7 @@
     
 <div class="row">
 <div class="large-3 columns">
-<p class="emphasis">Our focus: personal and conservative care</p>
+<h4 class="emphasis">Our focus: personal and conservative care</h4>
 </div>
 <div class="large-9 columns">
   <p>
@@ -43,7 +43,7 @@ analyze and share results with you during your visit avoiding a trip to another 
  
 <div class="row">
 <div class="large-3 columns">
-<p class="emphasis">Our patients:</p>
+<h4 class="emphasis">Our patients:</h4>
 </div>
 <div class="large-9 columns">
   <p>
@@ -54,7 +54,7 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
 
 <div class="row">
 <div class="large-3 columns">
-<p class="emphasis">Our practice:</p>
+<h4 class="emphasis">Our practice:</h4>
 </div>
 <div class="large-9 columns">
   <img class="inline-wrap" src="images/drphoto.jpg" alt="">
