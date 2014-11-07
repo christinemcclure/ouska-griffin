@@ -6,8 +6,8 @@
  
  <div id="maincontent" class="row">
   <div class="large-12 columns"><h1>New patient information</h1>
-  <p>Patient registration form <a href="patient-registration-form.pdf">(download pdf)</a></p>
-  <p>Patient medical information form <a href="patient-medical-information-form.pdf">(download pdf)</a></p>
+  <p class="emphasis">Patient registration form <a href="patient-registration-form.pdf">(download pdf)</a></p>
+  <p class="emphasis">Patient medical information form <a href="patient-medical-information-form.pdf">(download pdf)</a></p>
   </div>
  </div>
     
