@@ -9839,22 +9839,27 @@ p.disclaimer {
   line-height: 1.15em;
 }
 
-/* line 129, ../scss/app.scss */
+/* line 128, ../scss/app.scss */
+p.emphasis {
+  font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* line 131, ../scss/app.scss */
 .emphasis {
   font-size: 1.2em;
 }
 
 /* header */
-/* line 134, ../scss/app.scss */
+/* line 136, ../scss/app.scss */
 .top-bar {
   color: #fcf5ed;
 }
-/* line 137, ../scss/app.scss */
+/* line 139, ../scss/app.scss */
 .top-bar .name a.location {
   display: none;
   color: #fcf5ed;
 }
-/* line 141, ../scss/app.scss */
+/* line 143, ../scss/app.scss */
 .top-bar .name a.header {
   display: block;
   width: 60%;
@@ -9864,64 +9869,64 @@ p.disclaimer {
   color: #fcf5ed;
   margin: 12px 0 0 14px;
 }
-/* line 151, ../scss/app.scss */
+/* line 153, ../scss/app.scss */
 .top-bar .toggle-topbar.menu-icon {
   top: 25%;
 }
 
-/* line 156, ../scss/app.scss */
+/* line 158, ../scss/app.scss */
 .top-bar.expanded, .top-bar.expanded .toggle-topbar {
   border-color: #185459;
   background: #185459;
   color: #fcf5ed;
 }
 
-/* line 161, ../scss/app.scss */
+/* line 163, ../scss/app.scss */
 .top-bar-section li, .top-bar-section li a, .top-bar-section li:not(.has-form) a:not(.button):hover, ul.right li, ul.right li a, ul.right li:not(.has-form) a:not(.button):hover {
   font-family: "oswald", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fcf5ed;
   background: #0b2729;
   font-size: 1.05rem;
 }
-/* line 167, ../scss/app.scss */
+/* line 169, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button):hover, .top-bar-section .dropdown li a:hover, .top-bar-section li.has-dropdown a:hover, .top-bar-section .dropdown li.title h5 a:hover, .top-bar-section .dropdown li.parent-link a:hover, ul.right li:not(.has-form) a:not(.button):hover, ul.right .dropdown li:not(.has-form):not(.active) > a:not(.button):hover, ul.right .dropdown li a:hover, ul.right li.has-dropdown a:hover, ul.right .dropdown li.title h5 a:hover, ul.right .dropdown li.parent-link a:hover {
   background: #0f3639;
   color: #f5ddc1;
 }
-/* line 171, ../scss/app.scss */
+/* line 173, ../scss/app.scss */
 .top-bar-section li.has-dropdown:not(.has-form) a:not(.button), .top-bar-section li.has-dropdown:not(.has-form) a:not(.button):hover, ul.right li.has-dropdown:not(.has-form) a:not(.button), ul.right li.has-dropdown:not(.has-form) a:not(.button):hover {
   background: #185459;
 }
 
-/* line 175, ../scss/app.scss */
+/* line 177, ../scss/app.scss */
 .dropdown li:last-child > a {
   margin-bottom: 20px;
 }
 
-/* line 178, ../scss/app.scss */
+/* line 180, ../scss/app.scss */
 .location {
   margin-top: 30px;
 }
-/* line 180, ../scss/app.scss */
+/* line 182, ../scss/app.scss */
 .location p {
   line-height: .5rem;
 }
-/* line 183, ../scss/app.scss */
+/* line 185, ../scss/app.scss */
 .location h2 + p {
   margin-top: 20px;
 }
 
-/* line 188, ../scss/app.scss */
+/* line 190, ../scss/app.scss */
 .hide {
   display: none;
 }
 
-/* line 190, ../scss/app.scss */
+/* line 192, ../scss/app.scss */
 input.button {
   margin: 24px 0 0 0;
 }
 
-/* line 193, ../scss/app.scss */
+/* line 195, ../scss/app.scss */
 input.button, input.button:hover, input.button:focus {
   border-color: #185459;
   background: rgba(24, 84, 89, 0.8);
@@ -9929,58 +9934,58 @@ input.button, input.button:hover, input.button:focus {
 }
 
 @media only screen and (min-width: 20.063em) {
-  /* line 202, ../scss/app.scss */
+  /* line 204, ../scss/app.scss */
   .top-bar .name a.header {
     line-height: 20px;
     margin: 20px 0 0 20px;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 214, ../scss/app.scss */
+  /* line 216, ../scss/app.scss */
   .top-bar .name a.header {
     width: 100%;
   }
-  /* line 215, ../scss/app.scss */
+  /* line 217, ../scss/app.scss */
   .top-bar .name a.location {
     display: block;
     font-size: 14px;
     margin: 4px 0 0 20px;
   }
-  /* line 220, ../scss/app.scss */
+  /* line 222, ../scss/app.scss */
   .top-bar .name a:hover {
     color: #f5ddc1;
   }
-  /* line 222, ../scss/app.scss */
+  /* line 224, ../scss/app.scss */
   .top-bar .toggle-topbar.menu-icon {
     top: 25%;
   }
 
-  /* line 227, ../scss/app.scss */
+  /* line 229, ../scss/app.scss */
   .top-bar-section ul.right li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     background: #185459;
   }
-  /* line 231, ../scss/app.scss */
+  /* line 233, ../scss/app.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     line-height: 40px;
   }
 
-  /* line 237, ../scss/app.scss */
+  /* line 239, ../scss/app.scss */
   img.inline-wrap {
     float: left;
   }
 
-  /* line 240, ../scss/app.scss */
+  /* line 242, ../scss/app.scss */
   img.inline-wrap-right {
     float: right;
   }
 }
 @media only screen and (min-width: 64.063em) {
-  /* line 249, ../scss/app.scss */
+  /* line 251, ../scss/app.scss */
   .top-bar .name a.header {
     margin: 14px 0 0 20px;
   }
 
-  /* line 255, ../scss/app.scss */
+  /* line 257, ../scss/app.scss */
   img.inline-wrap-large {
     display: inline-block !important;
     float: left;
