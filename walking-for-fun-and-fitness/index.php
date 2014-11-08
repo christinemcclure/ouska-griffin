@@ -22,7 +22,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
   
 <div class="row">
   <div class="large-3 columns">
-  <h4>Shoes</h4>
+  <p class="emphasis">Shoes</p>
   </div>
   <div class="large-9 columns">
         <p>
@@ -32,7 +32,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
 </div>  
 <div class="row">
   <div class="large-3 columns">
-  <h4>What constitutes a good walking shoe?</h4>
+  <p class="emphasis">What constitutes a good walking shoe?</p>
   </div>
   <div class="large-9 columns">
     <img class="inline-wrap-right" src="../images/walking-shoes.jpg" alt="">
@@ -52,7 +52,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
   
 <div class="row">
   <div class="large-3 columns">
-  <h4>Conservative care starts with an actual problem being evident</h4>
+  <p class="emphasis">Conservative care starts with an actual problem being evident</p>
   </div>
   <div class="large-9 columns">
         <p>
