@@ -24,7 +24,7 @@
 
 <div class="row">
   <div class="large-4 columns">
-  <h4>Weaknesses of retail or foam molded orthotics</h4>
+  <p class="emphasis">Weaknesses of retail or foam molded orthotics</p>
   </div>
   <div class="large-8 columns">
     <img class="inline-wrap-right" src="../images/orthotics-insole.jpg" alt="">
@@ -36,7 +36,7 @@
 
 <div class="row">
   <div class="large-4 columns">
-  <h4>Multiple custom orthotics for different uses</h4>
+  <p class="emphasis">Multiple custom orthotics for different uses</p>
   </div>
   <div class="large-8 columns">
         <p>
@@ -47,7 +47,7 @@
   
 <div class="row">
   <div class="large-4 columns">
-  <h4>One set of orthotics are not for a lifetime</h4>
+  <p class="emphasis">One set of orthotics are not for a lifetime</p>
   </div>
   <div class="large-8 columns">
         <p>
@@ -58,7 +58,7 @@
   
 <div class="row">
   <div class="large-4 columns">
-  <h4>Custom orthotic refurbishing</h4>
+  <p class="emphasis">Custom orthotic refurbishing</p>
   </div>
   <div class="large-8 columns">
         <p>
