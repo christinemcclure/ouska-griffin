@@ -19,7 +19,7 @@ As we age, our feet typically change in structure and even size. Decades of stan
   
 <div class="row">
   <div class="large-4 columns">
-  <h4>Medicare coverage of foot care</h4>
+  <p class="emphasis">Medicare coverage of foot care</p>
   </div>
   <div class="large-8 columns">
         <p>
