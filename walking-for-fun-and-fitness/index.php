@@ -12,7 +12,7 @@
 <img class="inline-wrap-large" src="../images/walking-woman.jpg" alt="">
   
   <p>
-Walking for fun or fitness is a wonderful mild to moderate exercise. It is much less stressful to our larger joints-ankles knees and hips as we age. Not all of us want to be strapped to a “walking program,” we just like being out of doors and moving. Even a causal stroll offers health and mental benefits.
+Walking for fun or fitness is a wonderful mild to moderate exercise. It is much less stressful to our larger joints-ankles knees and hips as we age. Not all of us want to be strapped to a “walking program,” we just like being out of doors and moving. Even a casual stroll offers health and mental benefits.
   </p>
   <p>
 Healthy feet and well-fitting shoes are two obvious requirements to engage even in casual walking and a major consideration in a strenuous walking program. Healthy feet means they are free of painful callouses, corns, ingrown toenails, warts, sores and infections caused by bacteria and fungus. It means they have good biomechanical foot health, i.e. relating to the bone structure and alignment of tendons and ligaments. A hands on professional podiatric evaluation typically determines what structural weaknesses might hinder or even prevent the enjoyment of a nice lunchtime walk in the park - or week long trek in the mountains. Based on this evaluation we can determine a plan of corrective action. It might include something as simple as rest, ice, and medication, a change of shoes, therapy, or custom orthotics. Surgery is a last resort.    
