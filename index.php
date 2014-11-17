@@ -29,7 +29,7 @@
 </div>
 <div class="large-9 columns">
   <p>
-Exceptional podiatric medicine begins with a thoughtful, and skilled diagnosis. Dr. Ouska-Griffin takes the time to listen to your description of your foot problem and concerns. We want to know where your feet take you in a normal day and what demands and stresses they face. We consider how other health issue might affect your feet. This personal and comprehensive approach is the core of a strong professional diagnostic evaluation. With our in-office x-ray capability we can 
+Exceptional podiatric medicine begins with a thoughtful and skilled diagnosis. Dr. Ouska-Griffin takes the time to listen to your description of your foot problem and concerns. We want to know where your feet take you in a normal day and what demands and stresses they face. We consider how other health issue might affect your feet. This personal and comprehensive approach is the core of a strong professional diagnostic evaluation. With our in-office x-ray capability we can 
 analyze and share results with you during your visit avoiding a trip to another facility and a second visit to learn our findings.
   </p>
   <p>
