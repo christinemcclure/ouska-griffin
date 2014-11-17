@@ -33,7 +33,7 @@ Exceptional podiatric medicine begins with a thoughtful and skilled diagnosis. D
 analyze and share results with you during your visit avoiding a trip to another facility and a second visit to learn our findings.
   </p>
   <p>
-    We take a hands on approach to patient treatment-our hands are on your feet evaluating and treating, not on a keyboard doing medical notes during your appointment. Once we have determined a diagnosis, we develop al conservative, progressive treatment path addressing the problem. We do not over treat, overprescribe, nor overbill.
+    We take a hands on approach to patient treatment-our hands are on your feet evaluating and treating, not on a keyboard doing medical notes during your appointment. Once we have determined a diagnosis, we develop a conservative, progressive treatment path addressing the problem. We do not over treat, overprescribe, nor overbill.
   </p>
   <p>
     We create our daily appointment schedule to respect your busy schedule. Most reception wait times are rarely over ten minutes. We do not overbook. A complex new patient visit can require 45 minutes to an hour and we schedule accordingly. We strive to make same day emergency appointments so long as they do not cause an inconvenience to our scheduled patients.
