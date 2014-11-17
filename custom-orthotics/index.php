@@ -29,7 +29,7 @@
   <div class="large-8 columns">
     <img class="inline-wrap-right" src="../images/orthotics-insole.jpg" alt="">
         <p>
-         Over the counter supports, even “fitted ones” will not relieve pain as well as a custom orthotic made specifically for you and matched for intended use. Image generated and foam impressions made with the patient standing only recreate the deformity with the foot under pressure. The skill is in the non-weight bearing, neutral position, cast impression controlled by an experienced podiatrist. 
+         Over the counter supports, even “fitted ones” will not relieve pain as well as a custom orthotic made specifically for you and matched for intended use. Image generated and foam impressions made with the patient standing only recreate the deformity with the foot under pressure. The skill is in the non-weight bearing, neutral position, cast impression created by an experienced podiatrist. 
         </p>
   </div>    
 </div>   
