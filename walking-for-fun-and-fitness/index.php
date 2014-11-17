@@ -42,7 +42,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
         <p>The current commonly used terms of stability and motion control are poorly chosen and inappropriately used.” American Academy of Podiatric Sports Medicine web site.
         </p>
         <p>
-          With this in mind any supportive shoe will have a firm midsole. To test for midsole strength hold a shoe with both hands at heel and toe and try to compress the shoe. If it bends at the ball of the foot and not the midsole it has adequate support. If the shoe bends in the midsole it is not a well-made shoe and should not be used for exercise. It should have at least a 5 eye lace up; and ample heel height (about 1.5 – 2 inches.) Also a quality shoe should have a firm heel counter, the back structure of any shoe that holds the heel of the foot.
+          With this in mind any supportive shoe will have a firm midsole. To test for midsole strength hold a shoe with both hands at heel and toe and try to compress the shoe. If it bends at the ball of the foot and not the midsole it has adequate support. If the shoe bends in the midsole it is not a well-made shoe and should not be used for exercise. It should have at least a 5 eye lace up; and ample heel height (about 1.5 – 2 inches.). Also a quality shoe should have a firm heel counter, the back structure of any shoe that holds the heel of the foot.
         </p>
         <p>
           If you have custom orthotics take them when shopping for shoes. The existing liner of the shoe should be removed to accommodate the orthotic insert.
