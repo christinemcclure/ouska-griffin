@@ -8,6 +8,7 @@
   <div class="large-12 columns"><h1>New patient information</h1>
   <p class="emphasis bump">Patient registration form <a href="patient-registration-form.pdf">(download pdf)</a></p>
   <p class="emphasis">Patient medical information form <a href="patient-medical-information-form.pdf">(download pdf)</a></p>
+  <p class="emphasis">Patient financial responsibility form <a href="patient-financial-responsibility.pdf">(download pdf)</a></p>
   </div>
  </div>
     
