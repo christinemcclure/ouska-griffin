@@ -38,7 +38,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
     <img class="inline-wrap-right" src="../images/walking-shoes.jpg" alt="">
         <p>
           This is not an easy question to answer. According to one professional society,</p> 
-        <blockquote>To date there has not been a reliable, repeatable methodology of footwear assessment that meets the standards of evidenced based medicine….</blockquote>
+        <blockquote>"To date there has not been a reliable, repeatable methodology of footwear assessment that meets the standards of evidenced based medicine…The current commonly used terms of stability and motion control are poorly chosen and inappropriately used." &mdash; American Academy of Podiatric Sports Medicine web site. </blockquote>
         <p>The current commonly used terms of stability and motion control are poorly chosen and inappropriately used.” American Academy of Podiatric Sports Medicine web site.
         </p>
         <p>
