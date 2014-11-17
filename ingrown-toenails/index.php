@@ -13,7 +13,7 @@
   <div class="large-12 columns">
      <img class="inline-wrap" src="../images/ingrown-bandaged-toes.jpg" alt="">
      <p>
-Ingrown toenails (onychocryptosis) is a common condition in which the corner or side of a toenail, usually the big toe, grows into the soft skin. Symptoms include pain, redness, and swelling and, sometimes, drainage caused by a bacterial infection. They can be hereditary, caused by a poor fitting shoe, an errant trimming of the nail or repeated trauma from walking or running. Other than soaking in warm water at home and using a topical antibiotic, treatment requires a sterile environment, the proper tools, and the skills of a podiatrist. Fortunately, once removed, relief and recovery is quick.   
+Ingrown toenails (onychocryptosis) is a common condition in which the corner or side of a toenail, usually the big toe, grows into the soft skin. Symptoms include pain, redness, and swelling and, sometimes drainage caused by a bacterial infection. They can be hereditary, caused by a poor fitting shoe, an errant trimming of the nail or repeated trauma from walking or running. Other than soaking in warm water at home and using a topical antibiotic, treatment requires a sterile environment, the proper tools, and the skills of a podiatrist. Fortunately, once removed, relief and recovery is quick.   
      </p>
      
 <p>Dr. Ouska-Griffin uses a conservative two step approach.</p>
