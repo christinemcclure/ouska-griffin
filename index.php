@@ -59,7 +59,7 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
 <div class="large-9 columns">
   <img class="inline-wrap" src="images/drphoto.jpg" alt="">
       <p>
-        Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College. She completed a medical/surgical residency at Loyola University Medical Center and Hines VA Hospital and has been board certified for over two decades. Since 1989, she has been conveniently located in the Loop at the northeast corner of Washington and Wabash just a half block west of Millennium Park. We know you have a wide choice of podiatrists. Most are fine doctors. Should you select Dr. Ouska-Griffin, she looks forward to listening to your needs and determining the best path toward pain free feet.
+        Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College. She completed a medical/surgical residency at Loyola University Medical Center and Hines VA Hospital and has been board certified for over two decades. Since 1989, she has been conveniently located in the Loop at the northeast corner of Washington and Wabash just a half block west of Millennium Park. We know you have a wide choice of podiatrists. Should you select Dr. Ouska-Griffin, she looks forward to listening to your needs and determining the best path toward pain free feet.
       </p>
 </div>    
 </div>
