@@ -26,7 +26,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
   </div>
   <div class="large-9 columns">
         <p>
-          Our feet are “custom” each with their own traits and-“personality.” If housed in ill-fitting shoes, our feet let us know they are unhappy via a pain message. Walking for fun or fitness requires well-fitting, supportive shoes. Age, fitness level, weight, and activity will dictate styles of shoes best for you. 
+          Our feet are “custom” each with their own traits and-“personality.” If housed in ill-fitting shoes our feet let us know they are unhappy via a pain message. Walking for fun or fitness requires well-fitting, supportive shoes. Age, fitness level, weight, and activity will dictate styles of shoes best for you. 
         </p>
   </div>    
 </div>  
