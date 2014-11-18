@@ -23,7 +23,7 @@ As we age, our feet typically change in structure and even size. Decades of stan
   </div>
   <div class="large-8 columns">
         <p>
-Medicare typically covers any injury to the feet. Medicare covers ongoing routine foot care, every 60 days, for people with specific chronic conditions such as documented poor circulation or diabetes. Secondary insurance coverage is variable. Some plans cover 100% of the Medicare deductible and copay, other plans will have additional deductibles or limit coverage for routine care. However, any uncovered office copay amounts are usually small, under $20 in many cases.
+Medicare typically covers any injury to the feet. Medicare covers ongoing routine foot care, every 60 days for people with specific chronic conditions such as documented poor circulation or diabetes. Secondary insurance coverage is variable. Some plans cover 100% of the Medicare deductible and copay, other plans will have additional deductibles or limit coverage for routine care. However, any uncovered office copay amounts are usually small, under $20 in many cases.
         </p>
         
         <p><a href="http://www.nia.nih.gov/health/publication/foot-care">National Institutes on Aging</a></p>
