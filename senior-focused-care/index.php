@@ -1,7 +1,8 @@
-<?php include("../includes/html-head.html"); ?>
-  
-<body>
+<?php include("../includes/html-head1.html"); ?>
+  <title>Dr. Florence Ouska-Griffin - Senior-Focused Care</title>
+<?php include("../includes/html-head2.html"); ?>  
 
+<body>
 <?php include("../includes/header-and-nav.html"); ?>    
  <div id="maincontent" class="row">
   <div class="large-12 columns"><h1>Senior-focused care</h1></div>

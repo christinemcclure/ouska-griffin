@@ -1,6 +1,8 @@
-<?php include("../includes/html-head.html"); ?>
-  
-<body>
+<?php include("../includes/html-head1.html"); ?>
+  <title>Dr. Florence Ouska-Griffin - Walking for Fun and Fitness</title>
+<?php include("../includes/html-head2.html"); ?>  
+
+  <body>
 
 <?php include("../includes/header-and-nav.html"); ?>    
  <div id="maincontent" class="row">

@@ -1,4 +1,6 @@
-<?php include("../includes/html-head.html"); ?>
+<?php include("../includes/html-head1.html"); ?>
+  <title>Dr. Florence Ouska-Griffin - Ingrown Toenails</title>
+<?php include("../includes/html-head2.html"); ?>  
   
 <body>
 

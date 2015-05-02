@@ -1,5 +1,7 @@
-<?php include("../includes/html-head.html"); ?>
-  
+<?php include("../includes/html-head1.html"); ?>
+  <title>Dr. Florence Ouska-Griffin - Infections, Athlete's Foot, and Warts</title>
+<?php include("../includes/html-head2.html"); ?>  
+    
 <body>
 
 <?php include("../includes/header-and-nav.html"); ?>    
