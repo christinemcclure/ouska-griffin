@@ -68,6 +68,31 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
         We know you have a wide choice of podiatrists. Should you select Dr. Ouska-Griffin, she looks forward to listening to your needs 
         and determining the best path toward pain free feet.
       </p>
+      <p>Some of the conditions we treat include:</p>
+      <ul>
+      <li>Achilles Tendinitis</li>
+      <li>Ankle Sprains and Strains</li>
+      <li>Bunion</li>
+      <li><a class="text-link" href="diabetic-foot-care/">Diabetes</a></li>
+      <li>Foot and Ankle Disorders</li>
+      <li>Foot Conditions</li>
+      <li>Foot Fracture</li>
+      <li>Foot Injuries</li>
+      <li>Foot Sprain</li>
+      <li>Hammer Toe</li>
+      <li>Heel Pain</li>
+      <li>Heel Spur</li>
+      <li>Infections</li>
+      <li><a class="text-link" href="ingrown-toenails/">Ingrown Toenail</a></li>
+      <li>Foot Injuries</li>
+      <li>Orthopedic Disorders</li>
+      <li>Plantar Fasciitis</li>
+      <li>Skin Diseases of the Foot</li>
+      <li>Stress Fracture of Foot</li>
+      <li>Toe Fractures</li>
+      <li><a class="text-link" href="infections-athletes-foot-and-warts">Toenail Fungal Infection</a></li>
+      <li>Warts</li>
+      </ul>      
 </div>    
 </div>
     
