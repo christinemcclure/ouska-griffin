@@ -99,7 +99,10 @@ a {
   color: $teal;
   font-weight:bold;
 }
-
+a.text-link {
+  text-decoration: underline;
+  font-size:106%;
+}
 a:hover{
   color: lighten($teal,20%);
 }
