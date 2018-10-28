@@ -9,7 +9,7 @@
 <div id="maincontent" class="row">
   <div class="large-12 columns"><h1>Where will your feet take you today?</h1></div>
 <div class="large-12 columns">
-<img alt="" src="images/home-walking.jpg">
+<img alt="Photo of a woman in athletic clothing walking along a lakefront." src="images/home-walking.jpg">
 <hr>
 </div>
 </div>
@@ -59,7 +59,7 @@ We are fortunate to serve a mix of long-time loyal patients and a growing stream
 <p class="emphasis">Our practice:</p>
 </div>
 <div class="large-9 columns">
-  <img class="inline-wrap" src="images/drphoto.jpg" alt="">
+  <img class="inline-wrap" src="images/drphoto.jpg" alt="Photo of Dr. Florence Ouska-Griffin.">
       <p>
         Dr. Ouska-Griffin is a Chicago native and graduate of Loyola University and Dr. William M. Scholl College of Podiatric Medicine now part of The Rosalind Franklin Medical College. She completed a medical/surgical residency at Loyola University Medical Center and Hines VA Hospital and has been board certified for over two decades. Since 1989, she has been conveniently located in the Loop at the northeast corner of Washington and Wabash just a half block west of Millennium Park. We know you have a wide choice of podiatrists. Should you select Dr. Ouska-Griffin, she looks forward to listening to your needs and determining the best path toward pain free feet.
       </p>

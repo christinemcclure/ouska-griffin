@@ -12,7 +12,7 @@
   
   <div class="row">
   <div class="large-4 columns">
-    <img src="../images/orthotics-custom.jpg" alt="">
+    <img src="../images/orthotics-custom.jpg" alt="Photo of a custom-made orthotic insole being fitted to the foot">
   </div> 
     <div class="large-8 columns">
     <p>There are three major elements to podiatric prescribed custom orthotics:</p>
@@ -29,7 +29,7 @@
   <p class="emphasis">Weaknesses of retail or foam molded orthotics</p>
   </div>
   <div class="large-8 columns">
-    <img class="inline-wrap-right" src="../images/orthotics-insole.jpg" alt="">
+    <img class="inline-wrap-right" src="../images/orthotics-insole.jpg" alt="line drawing of a store-bought insole">
         <p>
          Over the counter supports, even “fitted ones” will not relieve pain as well as a custom orthotic made specifically for you and matched for intended use. Image generated and foam impressions made with the patient standing only recreate the deformity with the foot under pressure. The skill is in the non-weight bearing, neutral position, cast impression created by an experienced podiatrist. 
         </p>

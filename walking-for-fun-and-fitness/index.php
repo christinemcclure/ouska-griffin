@@ -11,7 +11,7 @@
   
 <div class="row">
 <div class="large-12 columns">
-<img class="inline-wrap-large" src="../images/walking-woman.jpg" alt="">
+<img class="inline-wrap-large" src="../images/walking-woman.jpg" alt="Photo of woman wearing athletic clothing walking along a lakefront">
   
   <p>
 Walking for fun or fitness is a wonderful mild to moderate exercise. It is much less stressful to our larger joints-ankles knees and hips as we age. Not all of us want to be strapped to a “walking program,” we just like being out of doors and moving. Even a casual stroll offers health and mental benefits.
@@ -37,7 +37,7 @@ Healthy feet and well-fitting shoes are two obvious requirements to engage even 
   <p class="emphasis">What constitutes a good walking shoe?</p>
   </div>
   <div class="large-9 columns">
-    <img class="inline-wrap-right" src="../images/walking-shoes.jpg" alt="">
+    <img class="inline-wrap-right" src="../images/walking-shoes.jpg" alt="Photo of a person's feet wearing athletic shoes walking through fallen leaves.">
         <p>
           This is not an easy question to answer. According to one professional society,</p> 
         <blockquote>"To date there has not been a reliable, repeatable methodology of footwear assessment that meets the standards of evidenced based medicine…The current commonly used terms of stability and motion control are poorly chosen and inappropriately used." &mdash; American Academy of Podiatric Sports Medicine web site. </blockquote>
