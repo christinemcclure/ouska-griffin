@@ -12,61 +12,43 @@
   
   <div class="row">
   <div class="large-4 columns">
-    <img src="../images/orthotics-custom.jpg" alt="">
+    <p class="emphasis">Board Certification</p>
   </div> 
     <div class="large-8 columns">
-    <p>There are three major elements to podiatric prescribed custom orthotics:</p>
-    <ol class="indent-left">
-      <li>Designed by a podiatrist through a diagnosis of your specific biomechanics</li>
-      <li>Type, materials, and special enhancements guided by a discussion between you and your podiatrist</li>
-      <li>Fabricated by a specialized lab from a detailed prescription, often enhanced by direct communication</li>
-    </ol>      
+
+    <p>
+      Dr. Ouska-Griffin has been board certified by the American Board of Podiatric Medicine since 1996.  As a board certified podiatric physician she is required to recertify her board accreditation every 10 years. She has successfully completed recertification throughout her career.
+    </p>
     </div>
 </div>  
 
 <div class="row">
   <div class="large-4 columns">
-  <p class="emphasis">Weaknesses of retail or foam molded orthotics</p>
+  <p class="emphasis">Continuing Medical Education</p>
   </div>
   <div class="large-8 columns">
-    <img class="inline-wrap-right" src="../images/orthotics-insole.jpg" alt="">
-        <p>
-         Over the counter supports, even “fitted ones” will not relieve pain as well as a custom orthotic made specifically for you and matched for intended use. Image generated and foam impressions made with the patient standing only recreate the deformity with the foot under pressure. The skill is in the non-weight bearing, neutral position, cast impression created by an experienced podiatrist. 
-        </p>
+    <p>Competent physician care requires a physician to continually learn throughout her/his career.</p>
+    <p>The Accreditation Council for Continuing Medical Education defines continuing medical education as: "[E]ducational activities which serve to maintain, develop, or increase the knowledge, skills, and professional performance and relationships that a physician uses to provide services for patients, the public, or the profession."</p>
+    <p>Dr. Ouska-Griffin has completed an estimated 1,400 hours of certified continuing medical education in her career. Most states require the physician to complete a complete a minimum hourly total of approved certified CME courses annually. (Illinois has one of the most rigorous podiatric CME requirements in the nation, on par with MDs). Dr. Ouska-Griffin has always met or exceeded this requirement.</p>
+    <p>Some recent CME courses completed by Dr. Ouska-Griffin:</p>
+    <ul>
+      <li>Surgical vs. conservative care of osteoarthritis of great toe joints</li>
+      <li>Conservative care of tendon and ligament injuries</li>
+      <li>Plantar plate injuries</li>
+      <li>Kinesio taping</li>
+      <li>Comprehensive biomechanics</li>
+      <li>Fungal nail infections, newest treatment concepts</li>
+      <li>Vascular intervention of arterial disease</li>
+      <li>Newest antibiotic practices</li>
+      <li>Roll of steroids in pain management</li>
+      <li>Biopsy techniques for skin lesions and warts</li>
+      <li>Diabetic Charcot arthropathy</li>
+      <li>Molecular testing for foot infections</li>
+      <li>Dry skin or rash-popular misconceptions</li>
+  </ul>
+    
   </div>    
 </div>   
 
-<div class="row">
-  <div class="large-4 columns">
-  <p class="emphasis">Multiple custom orthotics for different uses</p>
-  </div>
-  <div class="large-8 columns">
-        <p>
-         There are multiple styles of custom orthotics for dress, work, and sport shoes. Many insurance companies will cover multiple sets.
-        </p>
-  </div>    
-</div>  
-  
-<div class="row">
-  <div class="large-4 columns">
-  <p class="emphasis">One set of orthotics are not for a lifetime</p>
-  </div>
-  <div class="large-8 columns">
-        <p>
-         Like shoes, custom orthotics are not designed for a lifetime of use. What once worked may not be doing the job today. Our foot’s biomechanics change as we age. Changes in your daily activities may place new demands on your feet as well. Either may warrant an evaluation of your current orthotic needs.  
-        </p>
-  </div>    
-</div>  
-  
-<div class="row">
-  <div class="large-4 columns">
-  <p class="emphasis">Custom orthotic refurbishing</p>
-  </div>
-  <div class="large-8 columns">
-        <p>
-         Maybe the structural benefits of your current orthotics are fine but they need refurbishing. The replacement of top covers both shock absorbing and leather materials enhance the comfort of your supports. Wearing ripped or frayed top covers can cause blisters and bruising to soles and toes. Refurbishing is inexpensive and does not require new casting.
-        </p>
-  </div>    
-</div>    
   
 <?php include("../includes/html-bottom.html"); ?>  
