@@ -30,7 +30,7 @@ Our practice usually can book a patient within a day or two and on the same day 
   <p class="emphasis">Lower Fees</p>
   </div>
   <div class="large-9 columns">
-    <p>his matters as most patients have employer driven high deductible insurance plans and/or must pay balances out of their own pocket. Our payments are determined by the insurance plans in which we participate under contract (We are in most major insurance plans.) Independent practice approved insurance fees are considerably less than those insurance fees approved for hospitals and outpatient centers. Our cash fees are set around major insurer standard fees for physician offices.</p>
+    <p>This matters as most patients have employer driven high deductible insurance plans and/or must pay balances out of their own pocket. Our payments are determined by the insurance plans in which we participate under contract (We are in most major insurance plans.) Independent practice approved insurance fees are considerably less than those insurance fees approved for hospitals and outpatient centers. Our cash fees are set around major insurer standard fees for physician offices.</p>
   </div>    
 </div>   
 
