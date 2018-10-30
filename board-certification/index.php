@@ -29,7 +29,8 @@
   <div class="large-9 columns">
     <img class="inline-wrap-right" src="../images/medical-education.jpg" alt="Photo of an online medical lecture">    
     <p>Competent physician care requires a physician to continually learn throughout her/his career.</p>
-    <p>The Accreditation Council for Continuing Medical Education defines continuing medical education as: "[E]ducational activities which serve to maintain, develop, or increase the knowledge, skills, and professional performance and relationships that a physician uses to provide services for patients, the public, or the profession."</p>
+    <p>The Accreditation Council for Continuing Medical Education defines continuing medical education as: 
+    <blockquote>"[E]ducational activities which serve to maintain, develop, or increase the knowledge, skills, and professional performance and relationships that a physician uses to provide services for patients, the public, or the profession."</blockquote>
     <p>Dr. Ouska-Griffin has completed an estimated 1,400 hours of certified continuing medical education in her career. Most states require the physician to complete a complete a minimum hourly total of approved certified CME courses annually. (Illinois has one of the most rigorous podiatric CME requirements in the nation, on par with MDs). Dr. Ouska-Griffin has always met or exceeded this requirement.</p>
     <p>Some recent CME courses completed by Dr. Ouska-Griffin:</p>
     <ul>
