@@ -8,7 +8,7 @@
 
  <div id="maincontent" class="row">
   <div class="large-12 columns">
-    <h1>Patient Benefits of Our Independent Podiatric Practice</h1>
+    <h1>Patient benefits of our independent podiatric practice</h1>
     <p>Our essential patient benefits:</p>
   </div>
  </div>

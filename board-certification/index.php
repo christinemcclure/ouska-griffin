@@ -7,7 +7,7 @@
 <?php include("../includes/header-and-nav.html"); ?>    
 
  <div id="maincontent" class="row">
-  <div class="large-12 columns"><h1>Board Certification and Continuing Medical Education</h1></div>
+  <div class="large-12 columns"><h1>Board certification and continuing medical education</h1></div>
  </div>
   
   <div class="row">
